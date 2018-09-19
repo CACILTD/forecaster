@@ -1,19 +1,19 @@
-# Summary
+# Table of contents
 
-### Part I
+* [About CACI Forecaster](README.md)
 
-* [Part I](part1/README.md)
-    * [Writing is nice](part1/README.md#writing)
-    * [GitBook is nice](part1/README.md#gitbook)
-* [Part II](part2/README.md)
-    * [We love feedback](part2/README.md#feedback)
-    * [Better tools for authors](part2/README.md#tools)
-    
-### Part II
+## Part I
 
-* [We love feedback](part2/feedback_please.md)
-* [Better tools for authors](part2/better_tools.md)
+* [Part I](part-i/part-i/README.md)
+  * [Writing is nice](part-i/part-i/writing-is-nice.md)
+  * [GitBook is nice](part-i/part-i/gitbook-is-nice.md)
+* [Part II](part-i/part-ii/README.md)
+  * [We love feedback](part-i/part-ii/we-love-feedback.md)
+  * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
 
-----
+## Part II
 
-* [Last part without title](part3/title.md)
+* [We love feedback](part-ii/we-love-feedback.md)
+* [Better tools for authors](part-ii/better-tools-for-authors.md)
+* [Last part without title](part-ii/last-part-without-title.md)
+
