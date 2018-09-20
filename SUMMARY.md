@@ -29,6 +29,6 @@
 * [We love feedback](part-ii/we-love-feedback.md)
 * [Releases](Extra/releases.md)
 * [Contact us](part-ii/better-tools-for-authors.md)
-* [(temp)Markdown examples](markdown-examples.md)
+* [Markdown examples (temp)](markdown-examples.md)
 
 
