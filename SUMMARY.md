@@ -2,18 +2,30 @@
 
 * [About CACI Forecaster](README.md)
 
-## Part I
 
-* [Part I](part-i/part-i/README.md)
+* [Gettign Started](part-i/part-i/README.md)
   * [Writing is nice](part-i/part-i/writing-is-nice.md)
   * [GitBook is nice](part-i/part-i/gitbook-is-nice.md)
-* [Part II](part-i/part-ii/README.md)
+
+* [Data](part-i/part-ii/README.md)
   * [We love feedback](part-i/part-ii/we-love-feedback.md)
   * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
 
-## Part II
+* [Forecast](part-i/part-ii/README.md)
+  * [We love feedback](part-i/part-ii/we-love-feedback.md)
+  * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
+  
+* [Analysis](part-i/part-ii/README.md)
+  * [We love feedback](part-i/part-ii/we-love-feedback.md)
+  * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
+
+* [Automation](part-i/part-ii/README.md)
+  * [We love feedback](part-i/part-ii/we-love-feedback.md)
+  * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
+
 
 * [We love feedback](part-ii/we-love-feedback.md)
 * [Better tools for authors](part-ii/better-tools-for-authors.md)
 * [Markdown examples](markdown-examples.md)
+
 
