@@ -1,4 +1,4 @@
-# Better tools for authors
+# Contact us
 
 ## Getting Super Powers
 

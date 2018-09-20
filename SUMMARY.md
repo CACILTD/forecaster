@@ -2,33 +2,28 @@
 
 * [About CACI Forecaster](README.md)
 
-### User Guide
+## User Guide
 
-* [Getting started](part-i/part-i/README.md)
-  * [Writing is nice](part-i/part-i/writing-is-nice.md)
-  * [GitBook is nice](part-i/part-i/gitbook-is-nice.md)
+* [Getting started](user-guide/part-i/README.md)
+  * [Writing is nice](user-guide/part-i/writing-is-nice.md)
+  * [GitBook is nice](user-guide/part-i/gitbook-is-nice.md)
+* [Data](user-guide/part-ii/README.md)
+  * [We love feedback](user-guide/part-ii/we-love-feedback.md)
+  * [Better tools for authors](user-guide/part-ii/better-tools-for-authors.md)
+* [Forecasting](user-guide/part-ii-1/README.md)
+  * [We love feedback](user-guide/part-ii-1/we-love-feedback.md)
+  * [Better tools for authors](user-guide/part-ii-1/better-tools-for-authors.md)
+* [Analysis](user-guide/part-ii-2/README.md)
+  * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
+  * [Better tools for authors](user-guide/part-ii-2/better-tools-for-authors.md)
+* [Automation](user-guide/part-ii-3/README.md)
+  * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
+  * [Better tools for authors](user-guide/part-ii-3/better-tools-for-authors.md)
 
-* [Data](part-i/part-ii/README.md)
-  * [We love feedback](part-i/part-ii/we-love-feedback.md)
-  * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
+## Extra
 
-* [Forecasting](part-i/part-ii/README.md)
-  * [We love feedback](part-i/part-ii/we-love-feedback.md)
-  * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
-  
-* [Analysis](part-i/part-ii/README.md)
-  * [We love feedback](part-i/part-ii/we-love-feedback.md)
-  * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
-
-* [Automation](part-i/part-ii/README.md)
-  * [We love feedback](part-i/part-ii/we-love-feedback.md)
-  * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
-
-###   Extra
-
-* [We love feedback](part-ii/we-love-feedback.md)
-* [Releases](Extra/releases.md)
-* [Contact us](part-ii/better-tools-for-authors.md)
-* [Markdown examples (temp)](markdown-examples.md)
-
+* [We love feedback](extra/we-love-feedback.md)
+* [Releases](extra/releases.md)
+* [Contact us](extra/better-tools-for-authors.md)
+* [Markdown examples \(temp\)](extra/markdown-examples.md)
 
