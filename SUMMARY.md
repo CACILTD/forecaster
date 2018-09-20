@@ -27,7 +27,8 @@
 ###   Extra
 
 * [We love feedback](part-ii/we-love-feedback.md)
-* [Contact](part-ii/better-tools-for-authors.md)
-* [Markdown examples](markdown-examples.md)
+* [Releases](part-ii/we-love-feedback.md)
+* [Contact us](part-ii/better-tools-for-authors.md)
+* [(temp)Markdown examples](markdown-examples.md)
 
 
