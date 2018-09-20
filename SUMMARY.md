@@ -2,8 +2,9 @@
 
 * [About CACI Forecaster](README.md)
 
+###
 
-* [Gettign Started](part-i/part-i/README.md)
+* [Getting started](part-i/part-i/README.md)
   * [Writing is nice](part-i/part-i/writing-is-nice.md)
   * [GitBook is nice](part-i/part-i/gitbook-is-nice.md)
 
@@ -11,7 +12,7 @@
   * [We love feedback](part-i/part-ii/we-love-feedback.md)
   * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
 
-* [Forecast](part-i/part-ii/README.md)
+* [Forecasting](part-i/part-ii/README.md)
   * [We love feedback](part-i/part-ii/we-love-feedback.md)
   * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
   
@@ -23,6 +24,7 @@
   * [We love feedback](part-i/part-ii/we-love-feedback.md)
   * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
 
+### 
 
 * [We love feedback](part-ii/we-love-feedback.md)
 * [Better tools for authors](part-ii/better-tools-for-authors.md)
