@@ -8,7 +8,7 @@ This release sees the introduction of new interval level models, as well as the 
 
 These changes are since version 3.1, v3.2 being an internal release.
 
-##### Headlines:
+##### Headlines
 1.	Interval level Smoothed Profile models are added, which give more weight to recent weeks, and also let you add in a proportion of the previous years’ profile. This can be helpful in modelling seasonal changes with minimal lag
 2.	Interval level Principal Components models are added. These work in a very different way, by determining a set of standard weekly profiles, then creating forecasts as a weighted combination of those profiles. This allows the use of different profiles at different times of year, or different intraday profiles in bank holiday periods
 3.	All interval profile models can now be used to match daily (or weekly) totals provided by another model
@@ -16,14 +16,14 @@ These changes are since version 3.1, v3.2 being an internal release.
 5.	Manual overlays can be applied to the main models, in order to overlay additional business knowledge on top of the data-driven forecasts
 6.	Simpler installation through a completely integrated R environment
 
-##### Usability:
+##### Usability
 1.	Ability to freeze columns in the data grid –especially useful for interval level modelling, when you want to keep track of date and time as you scroll across the table
 2.	New data columns can now be added within the Forecaster: useful for creating manual data overlays
  
 3.	When setting up data exporters in a workflow, column selection is now much more flexible, and columns can be specified wither by index or by type (Target, Input, Forecast, etc)…
 
 
-##### Other:
+##### Other
 1.	External Processes have been added to workflows, so any custom exports or other processes can be automated
 
 
