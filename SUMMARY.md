@@ -2,7 +2,7 @@
 
 * [About CACI Forecaster](README.md)
 
-###
+#### PART I
 
 * [Getting started](part-i/part-i/README.md)
   * [Writing is nice](part-i/part-i/writing-is-nice.md)
@@ -24,7 +24,7 @@
   * [We love feedback](part-i/part-ii/we-love-feedback.md)
   * [Better tools for authors](part-i/part-ii/better-tools-for-authors.md)
 
-### 
+###   PART II
 
 * [We love feedback](part-ii/we-love-feedback.md)
 * [Better tools for authors](part-ii/better-tools-for-authors.md)
