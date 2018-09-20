@@ -5,8 +5,9 @@
 ## User Guide
 
 * [Getting started](user-guide/part-i/README.md)
-  * [Writing is nice](user-guide/part-i/writing-is-nice.md)
-  * [GitBook is nice](user-guide/part-i/gitbook-is-nice.md)
+  * [Navigation](user-guide/part-i/writing-is-nice.md)
+  * [Solution](user-guide/part-i/gitbook-is-nice.md)
+  * [Projects](GettingStarted/GettingStarted.md#Projects)
 * [Data](user-guide/part-ii/README.md)
   * [We love feedback](user-guide/part-ii/we-love-feedback.md)
   * [Better tools for authors](user-guide/part-ii/better-tools-for-authors.md)
@@ -25,5 +26,5 @@
 * [We love feedback](extra/we-love-feedback.md)
 * [Releases](extra/releases.md)
 * [Contact us](extra/better-tools-for-authors.md)
-* [Markdown examples \(temp\)](extra/markdown-examples.md)
+* [Markdown examples (temp)](extra/markdown-examples.md)
 
