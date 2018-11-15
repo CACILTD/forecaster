@@ -31,14 +31,14 @@
   * [Seasonal models in the Forecaster](GettingStarted/GettingStarted.md#Projects)
 
 * [Regression Models](user-guide/part-i/README.md)
-  * [Navigation](user-guide/part-i/writing-is-nice.md)
-  * [Solution](user-guide/part-i/gitbook-is-nice.md)
-  * [Projects](GettingStarted/GettingStarted.md#Projects)
+  * [Regression models – theory and practice](user-guide/part-i/writing-is-nice.md)
+  * [Derived columns, ranges, overfitting](user-guide/part-i/gitbook-is-nice.md)
+  * [Custom models and importation processes](GettingStarted/GettingStarted.md#Projects)
 
 * [Dealing with Time](user-guide/part-i/README.md)
-  * [Regression models – theory and practice](user-guide/part-i/writing-is-nice.md)
-  * [Forecasting: derived columns, ranges, overfitting…](user-guide/part-i/gitbook-is-nice.md)
-  * [Custom models and importation processes](GettingStarted/GettingStarted.md#Projects)
+  * [Advanced regression modelling](user-guide/part-i/writing-is-nice.md)
+  * [Pure time series models](user-guide/part-i/gitbook-is-nice.md)
+  * [Decomposition forecasting](GettingStarted/GettingStarted.md#Projects)
 
 * [Automation and further Algorithms](user-guide/part-i/README.md)
   * [Automation: using workflows](user-guide/part-i/writing-is-nice.md)
@@ -52,4 +52,3 @@
 * [Releases](extra/releases.md)
 * [Contact us](extra/better-tools-for-authors.md)
 * [Markdown examples (temp)](extra/markdown-examples.md)
-
