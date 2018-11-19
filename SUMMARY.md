@@ -14,16 +14,15 @@
   * [Data Importers](UserGuide/Data/DataImporters.md)
   * [Re-importing Data](UserGuide/Data/Re-importingData.md)
   * [Data Columns](UserGuide/Data/DataColumns.md)
-  * [Model Type](UserGuide/Data/ModelType.md)
-  * [Model Rows](UserGuide/Data/ModelRows.md)
-  * [Model Columns](UserGuide/Data/ModelColumns.md)
-  * [Model Design](UserGuide/Data/ModelDesign.md)
 
-* [Forecasting](UserGuide/Forecasting/Forecasting.md)
-  * [We love feedback](user-guide/part-ii-1/we-love-feedback.md)
-  * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
-  * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
 
+* [Forecasting](UserGuide/Forecasting/Forecasting_sections.md)
+  * [Model Type](UserGuide/Forecasting/ModelType.md)
+  * [Model Rows](UserGuide/Forecasting/ModelRows.md)
+  * [Model Columns](UserGuide/Forecasting/ModelColumns.md)
+  * [Model Design](UserGuide/Forecasting/ModelDesign.md)
+  * [Forecasting](UserGuide/Forecasting/Forecasting.md)
+  
 * [Analysis](UserGuide/Analysis/Analysis.md)
   * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
   * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
