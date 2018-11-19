@@ -4,22 +4,36 @@
 
 ## User Guide
 
-* [Getting started](user-guide/part-i/README.md)
-  * [Navigation](user-guide/part-i/writing-is-nice.md)
-  * [Solution](user-guide/part-i/gitbook-is-nice.md)
-  * [Projects](GettingStarted/GettingStarted.md#Projects)
-* [Data](user-guide/part-ii/README.md)
-  * [We love feedback](user-guide/part-ii/we-love-feedback.md)
-  * [Better tools for authors](user-guide/part-ii/better-tools-for-authors.md)
-* [Forecasting](user-guide/part-ii-1/README.md)
+* [Getting started](UserGuide/Getting-started/Getting-started.md)
+  * [Quick Start](UserGuide/Getting-started/Quick-start.md)
+  * [Navigation](UserGuide/Getting-started/Navigation.md)
+  * [Solution](UserGuide/Getting-started/Solution.md)
+  * [Projects](UserGuide/Getting-started/Projects.md)
+
+* [Data](UserGuide/Data/Data.md)
+  * [Data Importers](UserGuide/Data/DataImporters.md)
+  * [Re-importing Data](UserGuide/Data/Re-importingData.md)
+  * [Data Columns](UserGuide/Data/DataColumns.md)
+  * [Model Type](UserGuide/Data/ModelType.md)
+  * [Model Rows](UserGuide/Data/ModelRows.md)
+  * [Model Columns](UserGuide/Data/ModelColumns.md)
+  * [Model Design](UserGuide/Data/ModelDesign.md)
+
+* [Forecasting](UserGuide/Forecasting/Forecasting.md)
   * [We love feedback](user-guide/part-ii-1/we-love-feedback.md)
-  * [Better tools for authors](user-guide/part-ii-1/better-tools-for-authors.md)
-* [Analysis](user-guide/part-ii-2/README.md)
   * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
-  * [Better tools for authors](user-guide/part-ii-2/better-tools-for-authors.md)
-* [Automation](user-guide/part-ii-3/README.md)
+  * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
+
+* [Analysis](UserGuide/Analysis/Analysis.md)
+  * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
+  * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
+  * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
+
+* [Automation](UserGuide/Automation/Automation.md)
   * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
-  * [Better tools for authors](user-guide/part-ii-3/better-tools-for-authors.md)
+  * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
+  * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
+
 
 ## Use Cases
 
