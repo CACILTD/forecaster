@@ -11,16 +11,16 @@
   * [Projects](UserGuide/Getting-started/Projects.md)
 
 * [Data](UserGuide/Data/Data.md)
-  * [Data Importers](UserGuide/Data/DataImporters.md)
-  * [Re-importing Data](UserGuide/Data/Re-importingData.md)
-  * [Data Columns](UserGuide/Data/DataColumns.md)
+  * [Data Importers](UserGuide/Data/Data-Importers.md)
+  * [Re-importing Data](UserGuide/Data/Reimporting-Data.md)
+  * [Data Columns](UserGuide/Data/Data-Columns.md)
 
 
-* [Forecasting](UserGuide/Forecasting/Forecasting_sections.md)
-  * [Model Type](UserGuide/Forecasting/ModelType.md)
-  * [Model Rows](UserGuide/Forecasting/ModelRows.md)
-  * [Model Columns](UserGuide/Forecasting/ModelColumns.md)
-  * [Model Design](UserGuide/Forecasting/ModelDesign.md)
+* [Forecasting](UserGuide/Forecasting/Forecasting-sections.md)
+  * [Model Type](UserGuide/Forecasting/Model-Type.md)
+  * [Model Rows](UserGuide/Forecasting/Model-Rows.md)
+  * [Model Columns](UserGuide/Forecasting/Model-Columns.md)
+  * [Model Design](UserGuide/Forecasting/Model-Design.md)
   * [Forecasting](UserGuide/Forecasting/Forecasting.md)
   
 * [Analysis](UserGuide/Analysis/Analysis.md)
