@@ -62,6 +62,6 @@ The CACI Forecaster provides planners with the best forecasting models available
 NOTE: The CACI Forecaster can export data using the “External Process” option. This can be configured to create reports or to push the forecast data back into your Workforce Management tool.
 {% endhint %}
 
-A snapshot of the original forecast model will be created, which can be altered in the “Data” tab. You can revert back to the original forecast model by selecting the relevant file in the “Solution Explorer”
+23. A snapshot of the original forecast model will be created, which can be altered in the “Data” tab. You can revert back to the original forecast model by selecting the relevant file in the “Solution Explorer”
 
 [IMAGE]
