@@ -45,7 +45,8 @@ Click the “Analysis” tab
 
 Click on the “Line” icon. A graph of the actual target value and forecast target is displayed with a range of performance metrics
 
-[IMAGE]
+**[IMAGE]**
+
 
 To look at comparing different forecast models or to create a forecast scenario you can keep the original model and work with a “snapshot”.
 
