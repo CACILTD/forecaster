@@ -7,6 +7,7 @@ The CACI Forecaster provides planners with the best forecasting models available
 ## Creating a Forecast Model
 
 
+### Create a new Solution
 - Open CACI Forecaster
 
 - In CACI Forecaster click “New” to create a new solution
@@ -15,6 +16,7 @@ The CACI Forecaster provides planners with the best forecasting models available
 
 - Click “OK” to continue
 
+### Import the Data
 - In the “Data Importer” part of the ribbon, select the “Text” or “CSV” icon then the “Import” icon – this tells the forecaster that you are going to import a text file (the CACI Forecaster can also import from Excel files or run any process you desire using the script import to import data i.e. database extraction, data pre-processing, etc.)
 
 - In the pop-up window start a new importation by clicking “Next” and browse for the data file “Sunspots All”
@@ -25,6 +27,8 @@ The CACI Forecaster provides planners with the best forecasting models available
 
 - While pressing shift on the keyboard select the column header “Count (year 1)”
 
+
+### Forecast
 - Click on the “Input known” icon – these are identified as your key drivers. The columns will turn yellow
 
 - Select the “Sunspots” column header and click on “Target” – the column will turn pink to indicate your target
@@ -45,6 +49,8 @@ The CACI Forecaster provides planners with the best forecasting models available
 
 - Click on the “Forecast” icon to generate a forecast. The forecast and predicted error will appear in the data table
 
+
+### Analyze results
 - Click the “Analysis” tab
 
 - Click on the “Line” icon. A graph of the actual target value and forecast target is displayed with a range of performance metrics
@@ -62,6 +68,7 @@ The CACI Forecaster provides planners with the best forecasting models available
 NOTE: The CACI Forecaster can export data using the “External Process” option. This can be configured to create reports or to push the forecast data back into your Workforce Management tool.
 {% endhint %}
 
+### Save a Snapshot
 - A snapshot of the original forecast model will be created, which can be altered in the “Data” tab. You can revert back to the original forecast model by selecting the relevant file in the “Solution Explorer”
 
 [IMAGE]
