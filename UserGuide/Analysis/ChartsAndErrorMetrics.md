@@ -12,11 +12,8 @@ For both of these charts, the legend contains error metrics for each forecast pr
 
 | Error Metric                                                                                        | Formula | Description                                                                   |
 |-----------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------------------------|
-| **Root Mean Square (RMS)**                                                                              |  </br> $$\sqrt{\frac{1}{n}  \sum_{i=1}^n(f_i-\alpha_i)^2}$$  </br>    | The square root of the average of the squared errors                          |
+| **Root Mean Square (RMS)**                                                                              |   $$\sqrt{\frac{1}{n}  \sum_{i=1}^n(f_i-\alpha_i)^2}$$      | The square root of the average of the squared errors                          |
 | **Mean Absolute Error (MAE)**                                                                          |   $$ \frac{1}{n} \sum_{i=1}^n \left\lvert{f_i-\alpha_i}\right\rvert$$      | The average of the absolute error (i.e. the error with  the +/- sign removed) |
 | **Peak Error (PE)**                                                                                     |   $$ max_{i=1, n} \left\lvert{f_i-\alpha_i}\right\rvert $$      | The largest absolute error                                                    |
 
-Where $$n:=$$ number of observations in the validation set,  $$f_i:=$$ forecasted value for observation $$i$$, $$\alpha_i :=$$ actual value for observation i
- 
-
- $$MAPE = \frac{1}{n} \sum_{d_i} (\frac{1}{q} \sum_{t_j}\left\lvert{gap_{i,j}}\right\rvert)$$
+Where $$n:=$$ number of observations in the validation set,  $$f_i:=$$ forecasted value for observation $$i$$, $$\alpha_i:=$$ actual value for observation $$i$$.
