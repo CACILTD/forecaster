@@ -7,17 +7,17 @@ The CACI Forecaster provides planners with the best forecasting models available
 ## Creating a Forecast Model
 
 
-1. Open CACI Forecaster
+#### 1. Open CACI Forecaster
 
-2. In CACI Forecaster click “New” to create a new solution
+#### 2. In CACI Forecaster click “New” to create a new solution
 
-3. Type in a solution name i.e. “Forecast sunspots” in the pop-up window
+#### 3. Type in a solution name i.e. “Forecast sunspots” in the pop-up window
 
-4. Click “OK” to continue
+#### 4. Click “OK” to continue
 
-5. In the “Data Importer” part of the ribbon, select the “Text” or “CSV” icon then the “Import” icon – this tells the forecaster that you are going to import a text file (the CACI Forecaster can also import from Excel files or run any process you desire using the script import to import data i.e. database extraction, data pre-processing, etc.)
+#### 5. In the “Data Importer” part of the ribbon, select the “Text” or “CSV” icon then the “Import” icon – this tells the forecaster that you are going to import a text file (the CACI Forecaster can also import from Excel files or run any process you desire using the script import to import data i.e. database extraction, data pre-processing, etc.)
 
-6. In the pop-up window start a new importation by clicking “Next” and browse for the data file “Sunspots All”
+#### 6. In the pop-up window start a new importation by clicking “Next” and browse for the data file “Sunspots All”
 
 7. After checking that the comma delimiters option is ticked, continue to click “Next” until you see the following window, below:
 
