@@ -25,7 +25,7 @@ The CACI Forecaster provides planners with the best forecasting models available
 - While pressing shift on the keyboard select the column header “Count (year 1)”
 
 
-### Forecast
+### Prepare Data
 - Click on the “Input known” icon – these are identified as your key drivers. The columns will turn yellow
 
 - Select the “Sunspots” column header and click on “Target” – the column will turn pink to indicate your target
