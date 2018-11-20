@@ -24,9 +24,8 @@
   * [Forecasting](UserGuide/Forecasting/Forecasting.md)
   
 * [Analysis](UserGuide/Analysis/Analysis.md)
-  * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
-  * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
-  * [We love feedback](user-guide/part-ii-2/we-love-feedback.md)
+  * [Charts & Error Metrics](UserGuide/Analysis/ChartsAndErrorMetrics.md)
+  * [Series Setup](UserGuide/Analysis/SeriesSetup.md)
 
 * [Automation](UserGuide/Automation/Automation.md)
   * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
