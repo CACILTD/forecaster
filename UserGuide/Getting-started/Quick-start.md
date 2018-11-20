@@ -15,7 +15,7 @@ The CACI Forecaster provides planners with the best forecasting models available
 
 - Click “OK” to continue
 
--. In the “Data Importer” part of the ribbon, select the “Text” or “CSV” icon then the “Import” icon – this tells the forecaster that you are going to import a text file (the CACI Forecaster can also import from Excel files or run any process you desire using the script import to import data i.e. database extraction, data pre-processing, etc.)
+- In the “Data Importer” part of the ribbon, select the “Text” or “CSV” icon then the “Import” icon – this tells the forecaster that you are going to import a text file (the CACI Forecaster can also import from Excel files or run any process you desire using the script import to import data i.e. database extraction, data pre-processing, etc.)
 
 - In the pop-up window start a new importation by clicking “Next” and browse for the data file “Sunspots All”
 
