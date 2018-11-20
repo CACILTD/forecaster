@@ -15,9 +15,9 @@
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png )
 
-<img src="https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png" width="640" height=360 />
+<img src="image.png" width="640" height=360 />
 
-<img src="https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png" width="100" height=100 />
+<img src="image.png" width="100" height=100 />
 
 
 
