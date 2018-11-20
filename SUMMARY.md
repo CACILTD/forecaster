@@ -16,7 +16,7 @@
   * [Data Columns](UserGuide/Data/Data-Columns.md)
 
 
-* [Forecasting](UserGuide/Forecasting/Forecasting-sections.md)
+* [Forecasting](UserGuide/Forecasting/Forecasting-section.md)
   * [Model Type](UserGuide/Forecasting/Model-Type.md)
   * [Model Rows](UserGuide/Forecasting/Model-Rows.md)
   * [Model Columns](UserGuide/Forecasting/Model-Columns.md)
