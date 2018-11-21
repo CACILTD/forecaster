@@ -7,23 +7,26 @@ The application makes use of a ribbon tool bar, ~~similar to those used in Offic
 
 * **Home**:  This ribbon contains all of the controls required to manage the solution (the current CACI Forecaster file) and to automatically export the data
 
-**[ IMAGE ]**
+![Home Tab](imgs/HomeTab.png)
+
 
 
 *	**Data**:  This ribbon contains all of the functionality necessary to import data, derive new columns, specify a forecasting technique and build the forecast
 
-**[ IMAGE ]**
+![Data Tab](imgs/DataTab.png)
 
+*	**Model**:  ~~This ribbon contains all of the functionality necessary to import data, derive new columns, specify a forecasting technique and build the forecast~~
 
+![Model Tab](imgs/ModelTab.png)
 
 * **Analysis**:  The analysis ribbon gives the user the ability to view and compare the results of a forecast against any other forecast generated on the same time series and same time period
 
-**[ IMAGE ]**
+![Analysis Tab](imgs/AnalysisTab.png)
 
 
 * **Automation**:  The analysis ribbon gives the user the ability to view and compare the results of a forecast against any other forecast generated on the same time series and same time period
 
-**[ IMAGE ]**
+![Automation Tab](imgs/AutomationTab.png)
 
 
 <br/>

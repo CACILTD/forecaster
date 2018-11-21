@@ -43,7 +43,7 @@ The CACI Forecaster provides planners with the best forecasting models available
 
 - Select “Train”
 
-### Forecast
+### Forecasting
 - Once the model has been trained successfully, the “Forecast” icon will be enabled. Details of the model are also displayed in the output window
 
 - Click on the “Forecast” icon to generate a forecast. The forecast and predicted error will appear in the data table
