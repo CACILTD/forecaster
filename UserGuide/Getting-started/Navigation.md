@@ -15,6 +15,7 @@ The application makes use of a ribbon tool bar, ~~similar to those used in Offic
 **[ IMAGE ]**
 
 
+
 * **Analysis**:  The analysis ribbon gives the user the ability to view and compare the results of a forecast against any other forecast generated on the same time series and same time period
 
 **[ IMAGE ]**
