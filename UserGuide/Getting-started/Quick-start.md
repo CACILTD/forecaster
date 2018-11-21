@@ -36,7 +36,7 @@ The CACI Forecaster provides planners with the best forecasting models available
 
 - Click on the “Data Ranges” icon to set the training and forecast length parameters in the pop-up window
 
-### Select and Train a forecasting Model
+### Select and Train a Forecasting Model
 - To train the forecast algorithm we are going to use data from the first row i.e. “Fixed Training Start” = 1 to the start point that we’ve set i.e. “Training to Forecast Gap” = 0. If you wish to forecast from the “Start point” to the end of the data input a large value i.e. 9999 into the “Forecast Length” field
 
 - Select your model from the list: Neural Networks, Regression or Decision TreeNOTE: The CACI Forecaster can invoke a batch process to run any model you desire through the “Custom Model” option.

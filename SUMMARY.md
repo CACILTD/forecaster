@@ -7,7 +7,7 @@
 * [Getting started](UserGuide/Getting-started/Getting-started.md)
   * [Quick Start](UserGuide/Getting-started/Quick-start.md)
   * [Navigation](UserGuide/Getting-started/Navigation.md)
-  * [Solution](UserGuide/Getting-started/Solution.md)
+  * [Solution Explorer](UserGuide/Getting-started/Solution-Explorer.md)
   * [Projects](UserGuide/Getting-started/Projects.md)
 
 * [Data](UserGuide/Data/Data.md)
