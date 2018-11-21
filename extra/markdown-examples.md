@@ -1,5 +1,76 @@
 # Markdown examples \(temp\)
 
+## Gitbbok Examples
+
+# tests!
+
+## Getting Super Powers
+
+Becoming a super hero is a fairly straight forward process:
+
+```
+$ give me super-powers
+```
+
+{% hint style="info" %}
+ Info hint
+{% endhint %}
+
+{% hint style="warning" %}
+Warning hint
+{% endhint %}
+
+{% hint style="danger" %}
+Danger hint
+{% endhint %}
+
+{% hint style="success" %}
+Success hint
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+{% page-ref page="tests.md" %}
+
+{% api-method method="get" host="" path="" %}
+{% api-method-summary %}
+
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+
+
 #### Features
 
 * Support Standard Markdown / CommonMark and GFM\(GitHub Flavored Markdown\);
