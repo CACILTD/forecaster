@@ -1,19 +1,13 @@
 # Navigation
 
 
-The application makes use of a ribbon tool bar, similar to those used in Office 2007 applications.  The forecasting application has been broken down into three main phases:
+The application makes use of a ribbon tool bar, ~~similar to those used in Office 2007 applications~~.  The forecasting application has been broken down into three main phases:
 
 
 * **Home**:  This ribbon contains all of the controls required to manage the solution (the current CACI Forecaster file) and to automatically export the data
 
 **[ IMAGE ]**
 
-
-The Home ribbon bar breaks down into four groups:
-* Solution
-* Data Exporters
-* Custom Actions
-* Help
 
 *	**Data**:  This ribbon contains all of the functionality necessary to import data, derive new columns, specify a forecasting technique and build the forecast
 
