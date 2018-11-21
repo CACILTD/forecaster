@@ -1,6 +1,7 @@
 # Navigation
 
 
+#### Navigation Tabs
 The application makes use of a ribbon tool bar, ~~similar to those used in Office 2007 applications~~.  The forecasting application has been broken down into three main phases:
 
 
