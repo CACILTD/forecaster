@@ -34,8 +34,7 @@ There is a natural order to building the forecasts, generally speaking the user 
 
 The Solution Explorer window (generally to the left of the screen) shows details of all available projects within the solution and is visible in all three tabs.
 
-
-**[ IMAGE ]**
+![Forecaster](imgs/ForecasterMainScreen.png)
 
 
 
