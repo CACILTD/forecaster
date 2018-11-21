@@ -7,13 +7,14 @@
 * [Getting started](UserGuide/Getting-started/Getting-started.md)
   * [Quick Start](UserGuide/Getting-started/Quick-start.md)
   * [Navigation](UserGuide/Getting-started/Navigation.md)
-  * [Solution Explorer](UserGuide/Getting-started/Solution-Explorer.md)
+  * [Solution](UserGuide/Getting-started/Solution.md)
   * [Projects](UserGuide/Getting-started/Projects.md)
 
 * [Data](UserGuide/Data/Data.md)
   * [Data Importers](UserGuide/Data/Data-Importers.md)
   * [Re-importing Data](UserGuide/Data/Reimporting-Data.md)
   * [Data Columns](UserGuide/Data/Data-Columns.md)
+  * [Data Exporters](UserGuide/Data/Data-Exporters.md)
 
 
 * [Forecasting](UserGuide/Forecasting/Forecasting-section.md)
