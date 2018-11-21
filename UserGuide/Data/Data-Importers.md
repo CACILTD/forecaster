@@ -61,14 +61,12 @@ The importation will complete by clicking Next followed by Finish.
 ##### Excel Importer
 Once the user has selected MS Excel – Import from the Data – Data Importers ribbon, the Excel Importer will open. 
  
- **[ IMAGE ]**
-Figure 17 Excel Import Wizard - Welcome
+![Excel Import Wizard - Welcome](imgs/ExcelImportWizard_Welcome.png)
 
 
 By clicking on Next, the user will be able to insert the relevant path and file name of the Excel file (using Browse button).  By leaving the Suggest Data Types box ticked, the application will automatically define data types for each column.  
  
- **[ IMAGE ]**
-Figure 18 Excel Import Wizard - Parameters
+![Excel Import Wizard - Parameters](imgs/ExcelImportWizard_Parameters.png)
 
 
 The following screen (Figure 19) will ask you to select the relevant worksheet within the Excel file.
