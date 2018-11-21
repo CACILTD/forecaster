@@ -1,7 +1,23 @@
 # Getting started
 
+Forecaster getting started guide.
 
+---
+
+If you are new to Forecaster and want to start a project of yours, start here:
+
+{% page-ref page="Quick-start.md" %}
+
+
+To find information about Forecaster Navigation click on the link below:
 {% page-ref page="Navigation.md" %}
+
+To find information about Forecaster Solutions click on the link below:
+{% page-ref page="Solution.md" %}
+
+
+To find information about Forecaster Projects click on the link below:
+{% page-ref page="Projects.md" %}
 
 The CACI Forecaster provides planners with the best forecasting models available. These models provide superior forecasting accuracy when compared with existing workforce management products. CACI Forecaster is quick and easy to use and provides a controlled and straightforward forecast generation process.
 
