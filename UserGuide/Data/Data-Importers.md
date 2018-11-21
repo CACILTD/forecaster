@@ -20,37 +20,34 @@ You are able to cancel the import by pressing the cancel button at any time, alt
 ##### Text Importer
 Once the user has selected Text – Import from the Data – Data Importers ribbon, the Comma Delimited Importer will open.  
 
-**[ IMAGE ]**
-Figure 12 Text Import Wizard - Welcome
+![Text Import Wizard - Welcome](imgs/TextImportWizard_Welcome.png)
 
 
 By clicking on Next, the user will be able to insert the relevant path and file name of the text file (using the Browse button) and set the delimiter.  The default delimiter is comma, but other delimiters are possible (as shown in Figure 13).  By leaving the Suggest Data Types box ticked, the application will automatically define data types for each column.  
 
 
- **[ IMAGE ]**
-Figure 13 Text Import Wizard - Parameters
+![Text Import Wizard - Parameters](imgs/TextImportWizard_Parameters.png)
+
 
 
 Clicking on Next brings you to the Column Configuration options where you will be able to see a preview of the data.  At this stage, a key column needs to be defined.  Where possible, CACI Forecaster will use the date column as the key column.  However, if there is no column which contains unique dates, an auto-generated key column will be used.  If you would prefer to use an auto-generated key column instead on the chosen date column, tick the Auto-Generate Key Column option.
  
 
-**[ IMAGE ]**
-Figure 14 Text Import Wizard - Column Configuration (Preview)
+![Text Import Wizard - Column Configuration (Preview)](imgs/TextImportWizard_ColumnsConfig.png)
 
 
 By clicking the Advanced view shown in Figure 15, the user is able to adjust the data type of each column, described in Table 6.
  
- **[ IMAGE ]**
-Figure 15 Text Import Wizard - Column Configuration (Advanced)
+![Text Import Wizard - Column Configuration (Advanced)](imgs/TextImportWizard_ColumnsConfigAdvanced.png)
 
 
 
 | Data Type | Description                                                                 | Additional user-defined fields                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-----------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Double    | A real or continuous number, i.e. a number with decimal places (e.g. 1.234) | - FormatDecimals: Set the number of decimal places - FormatThousands: Use a comma to separate thousands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Integer   | A whole number, e.g. 1, 2, 3, or 4                                          |        N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Integer   | A whole number, e.g. 1, 2, 3, or 4                                          |        N/A                                                                                                                                                                                                                                                                                                 |
 | DateTime  | A variable representing a date or a time                                    | - FormatDateTime: Define whether the variable is a date, time or date and time <br/><br/>  - IncrementType: For date variables, you can assign the column to represent days, weeks or months.  If the IncrementStep is set appropriately and the date variable is set to be the key column, then where there are missing date values in the import file, the application will insert a dummy row to represent this date  <br/><br/> - IncrementStep: This sets the frequency of the IncrementType value.  For example, for daily data, the user would set the IncrementType to be day and the IncrementStep to be 1. If the data is recorded once every two weeks, then the IncrementType would be week and the IncrementStep 2 
-| String    | A non-numeric variable, also known as a categorical variable                |      N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| String    | A non-numeric variable, also known as a categorical variable                |      N/A                                                                                                                                                                                                                          |
 
 
 Table 6 Data Types
@@ -58,8 +55,7 @@ Table 6 Data Types
 
 The importation will complete by clicking Next followed by Finish.
 
-**[ IMAGE ]**
-Figure 16 Text Import Wizard - Final Screen
+![Text Import Wizard - Final Screen](imgs/TextImportWizard_Completed.png)
 
 
 ##### Excel Importer
