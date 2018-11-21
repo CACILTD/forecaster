@@ -84,20 +84,15 @@ Figure 20 Completing the Excel Importation
 ##### Script Importer
 Once the user has selected Script – Import from the Data – Data Importers ribbon, the Script Importer will open.  
  
- **[ IMAGE ]**
-Figure 21 Script Import Wizard - Welcome
-
+![Script Import Wizard - Welcome](imgs/ScriptImportWizard_Welcome.png)
 
 By clicking on Next, the user will be able to select the relevant script and input the required parameters in the Parameters field.
 
-**[ IMAGE ]** 
-Figure 22 Script Import Wizard - Script Selector
-
+![Script Import Wizard - Script Selector](imgs/ScriptImportWizard_ScriptSelector.png) 
 
 After clicking on Next, progress of the importation will be visible in the import wizard, similar to that shown in Figure 23.
 
-**[ IMAGE ]** 
-Figure 23 Script Import Wizard - Script Progress
+![Script Import Wizard - Script Progress](imgs/ScriptImportWizard_ScriptProgress.png)
 
 
 Clicking on Next will bring you to the Column Configuration screen which is described in section 5.1.1.  The importation will then complete by clicking on Next followed by Finish.
