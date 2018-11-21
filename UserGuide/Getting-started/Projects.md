@@ -1,5 +1,3 @@
-# Projects
-
 
 The following section explains how to manage your **Projects** in the **Solution Explorer**.  Once a solution has been created, there are number of management activities which can be carried out on projects within the solution.  Details are as follows:
 
