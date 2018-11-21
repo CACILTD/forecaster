@@ -1,8 +1,8 @@
 # Getting started
-
-Forecaster getting started guide.
-
 ---
+Forecaster getting started guide.
+---
+
 
 If you are new to Forecaster and want to start a project of yours, start here:
 
