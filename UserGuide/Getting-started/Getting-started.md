@@ -1,5 +1,8 @@
 # Getting started
 
+
+{% page-ref page="Navigation.md" %}
+
 The CACI Forecaster provides planners with the best forecasting models available. These models provide superior forecasting accuracy when compared with existing workforce management products. CACI Forecaster is quick and easy to use and provides a controlled and straightforward forecast generation process.
 
 Creating a Forecast Model
