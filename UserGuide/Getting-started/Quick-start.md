@@ -2,69 +2,86 @@
 
 The CACI Forecaster provides planners with the best forecasting models available. These models provide superior forecasting accuracy when compared with existing workforce management products. CACI Forecaster is quick and easy to use and provides a controlled and straightforward forecast generation process.
 
+### Before you start
+
+Make sure that you have the following:
+1. CACI Forecaster installed,
+2. the "Car Insurance" dataset - can be downloaded [here](data/Car-Insurance.csv).
 
 
 ### Create a new Solution
-- Open CACI Forecaster
+- **Open** CACI Forecaster
 
-- In CACI Forecaster click “New” to create a new solution
+- In CACI Forecaster **click** “New” to create a new solution
 
-- Type in a solution name i.e. “Forecast sunspots” in the pop-up window
+![New Solution](imgs/QuickStart_NewSolution.png)
 
-- Click “OK” to continue
+- **Type** in a solution name i.e. "Car Insurance" in the pop-up window
+
+- **Click** “OK” to continue
 
 ### Import the Data
-- In the “Data Importer” part of the ribbon, select the “Text” or “CSV” icon then the “Import” icon – this tells the forecaster that you are going to import a text file (the CACI Forecaster can also import from Excel files or run any process you desire using the script import to import data i.e. database extraction, data pre-processing, etc.)
+- In the “Data Importer” part of the ribbon, **select** the "Text" icon then the "Import" icon – this tells the forecaster that you are going to import a text file.
 
-- In the pop-up window start a new importation by clicking “Next” and browse for the data file “Sunspots All”
+{% hint style="info" %}
+Forecaster can also import from Excel files or run any custom process using the script ~~import to import~~ (??) data i.e. database extraction, data pre-processing, etc.
+{% endhint %}
+
+- In the pop-up window start a new importation by clicking "Next" and browse for the data file “Car Insurance”.
+
+![Import Data](imgs/QuickStart_ImportData.png)
+
 
 - After checking that the comma delimiters option is ticked, continue to click “Next” until you see the following window, below:
 
-- The “Sunspots All” datafile contains the target variable “Sunspots” together with lagged variables ranging from a lag of 1 to 9 years. Lagged variables can be automatically generated via an importation script if required. Select the column header “Count (year 9)”
+![Text Import Wizard - Final Screen](imgs/QuickStart_TextImportWizard_Completed.png)
 
-- While pressing shift on the keyboard select the column header “Count (year 1)”
 
 
 ### Prepare Data
-- Click on the “Input known” icon – these are identified as your key drivers. The columns will turn yellow
 
-- Select the “Sunspots” column header and click on “Target” – the column will turn pink to indicate your target
+- **Select** the "CallsOffered" column header and **click** on “Target” – the column will turn pink to indicate your target.
 
-- Now you need to select a “Start point”. Scroll down to row 200 (for example) and select the row by clicking on the row header
+![Target Column](imgs/QuickStart_TargetColumn.png)
 
-- Click “Start point” – the row will turn light blue. The data above the “start point” is historic data that CACI Forecaster will use to train the model. The data below the “start point” will be used to validate the model - CACI Forecaster will only use the key driver data below the “start point” to determine the target
+- Now you need to select a “Start point”. Scroll down to row with date 01/01/2011 and **select** the row by clicking on the row header. Then **click** on the the Forecast Start button - the row will turn light blue.
 
-- Click on the “Data Ranges” icon to set the training and forecast length parameters in the pop-up window
+![Forecast Start](imgs/QuickStart_ForecastStart.png)
 
-### Select and Train a Forecasting Model
-- To train the forecast algorithm we are going to use data from the first row i.e. “Fixed Training Start” = 1 to the start point that we’ve set i.e. “Training to Forecast Gap” = 0. If you wish to forecast from the “Start point” to the end of the data input a large value i.e. 9999 into the “Forecast Length” field
+{% hint style="info" %}
+The data above the “Forecast Start” is historic data that CACI Forecaster will use to train the model. The data below the “Forecast Start” will be used to validate the model - CACI Forecaster will only use the key driver data below the “start point” to determine the target
+{% endhint %}
 
-- Select your model from the list: Neural Networks, Regression or Decision TreeNOTE: The CACI Forecaster can invoke a batch process to run any model you desire through the “Custom Model” option.
-
-- Select “Train”
 
 ### Forecasting
-- Once the model has been trained successfully, the “Forecast” icon will be enabled. Details of the model are also displayed in the output window
 
-- Click on the “Forecast” icon to generate a forecast. The forecast and predicted error will appear in the data table
+- **Select** the "Simple Profile" model.
+![Model Selection](imgs/QuickStart_SimpleProfileModel.png)
+
+
+- and then **click** on "Forecast" !
+![Target Column](imgs/QuickStart_Forecast.png)
+
+
+- The forecast and predicted error will appear in the data table. Details of the model are also displayed in the output window.
+![Target Column](imgs/QuickStart_Forecasts.png)
 
 
 ### Analyze results
-- Click the “Analysis” tab
+- **Click** the "Analysis" tab
 
-- Click on the “Line” icon. A graph of the actual target value and forecast target is displayed with a range of performance metrics
+- **Click** on the "Line" icon. A graph of the actual target value and forecast target is displayed with a range of performance metrics.
 
-[IMAGE]
-
+![Analysis Tab](imgs/QuickStart_Analysis.png)
 
 {% hint style="info" %}
  To look at comparing different forecast models or to create a forecast scenario you can keep the original model and work with a “snapshot”.
 {% endhint %}
 
-- In the “Solution Explorer” select and right-click on the forecast file. In the pop-up menu select “Project Snapshot”
+- In the “Solution Explorer” **select** and **right-click** on the forecast file. In the pop-up menu **select** “Project Snapshot”.
 
 {% hint style="info" %}
-NOTE: The CACI Forecaster can export data using the “External Process” option. This can be configured to create reports or to push the forecast data back into your Workforce Management tool.
+NOTE: The CACI Forecaster can export data using the “External Process” option. This can be configured to create reports or to push the forecast data back into your ~~Workforce Management tool~~.
 {% endhint %}
 
 ### Save a Snapshot
