@@ -64,12 +64,12 @@ The data above the “Forecast Start” is historic data that CACI Forecaster wi
 
 - and then **click** on the "Forecast" button!
 
-![Target Column](imgs/QuickStart_Forecast.png)
+![Forecast button](imgs/QuickStart_Forecast.png)
 
 
 - The forecast and predicted error will appear in the data table. Details of the model are also displayed in the output window.
 
-![Target Column](imgs/QuickStart_Forecasts.png)
+![Forecast and Forecast Error columns](imgs/QuickStart_Forecasts.png)
 
 
 ### Analyze results
