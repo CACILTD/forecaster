@@ -5,6 +5,7 @@ The CACI Forecaster provides planners with the best forecasting models available
 ### Before you start
 
 Make sure that you have the following:
+
 1. CACI Forecaster installed,
 2. the "Car Insurance" dataset - can be downloaded [here](data/Car-Insurance.csv).
 
@@ -40,37 +41,39 @@ Forecaster can also import from Excel files or run any custom process using the 
 
 ### Prepare Data
 
-- **Select** the "CallsOffered" column header and **click** on “Target” – the column will turn pink to indicate your target.
+- **Select** the "CallsOffered" column header and **click** on "Target".
 
 ![Target Column](imgs/QuickStart_TargetColumn.png)
 
-- Now you need to select a “Start point”. Scroll down to row with date 01/01/2011 and **select** the row by clicking on the row header. Then **click** on the the Forecast Start button - the row will turn light blue.
+
+- Now you need to select a “Start point”. **Scroll down** to row with date "01/01/2011" and **select** the row by clicking on the row header. Then **click** on the the Forecast Start button - the row will turn light blue.
 
 ![Forecast Start](imgs/QuickStart_ForecastStart.png)
 
 {% hint style="info" %}
-The data above the “Forecast Start” is historic data that CACI Forecaster will use to train the model. The data below the “Forecast Start” will be used to validate the model - CACI Forecaster will only use the key driver data below the “start point” to determine the target
+The data above the “Forecast Start” is historic data that CACI Forecaster will use to train the model. ~~The data below the “Forecast Start” will be used to validate the model - CACI Forecaster will only use the key driver data below the “start point” to determine the target~~
 {% endhint %}
 
 
 ### Forecasting
 
 - **Select** the "Simple Profile" model.
+
 ![Model Selection](imgs/QuickStart_SimpleProfileModel.png)
 
 
-- and then **click** on "Forecast" !
+- and then **click** on the "Forecast" button!
+
 ![Target Column](imgs/QuickStart_Forecast.png)
 
 
 - The forecast and predicted error will appear in the data table. Details of the model are also displayed in the output window.
+
 ![Target Column](imgs/QuickStart_Forecasts.png)
 
 
 ### Analyze results
-- **Click** the "Analysis" tab
-
-- **Click** on the "Line" icon. A graph of the actual target value and forecast target is displayed with a range of performance metrics.
+- **Click** the "Analysis" tab - a graph of the actual target value and forecast target is displayed with a range of performance metrics.
 
 ![Analysis Tab](imgs/QuickStart_Analysis.png)
 
@@ -78,13 +81,16 @@ The data above the “Forecast Start” is historic data that CACI Forecaster wi
  To look at comparing different forecast models or to create a forecast scenario you can keep the original model and work with a “snapshot”.
 {% endhint %}
 
+### Save a Snapshot
+
+
 - In the “Solution Explorer” **select** and **right-click** on the forecast file. In the pop-up menu **select** “Project Snapshot”.
 
 {% hint style="info" %}
 NOTE: The CACI Forecaster can export data using the “External Process” option. This can be configured to create reports or to push the forecast data back into your ~~Workforce Management tool~~.
 {% endhint %}
 
-### Save a Snapshot
+
 - A snapshot of the original forecast model will be created, which can be altered in the “Data” tab. You can revert back to the original forecast model by selecting the relevant file in the “Solution Explorer”
 
 [IMAGE]
