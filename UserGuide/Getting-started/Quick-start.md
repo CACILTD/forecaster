@@ -1,6 +1,6 @@
 # Quick Start
 
-The CACI Forecaster provides planners with the best forecasting models available. These models provide superior forecasting accuracy when compared with existing workforce management products. CACI Forecaster is quick and easy to use and provides a controlled and straightforward forecast generation process.
+The CACI Forecaster provides planners with the best forecasting models available. These models provide superior forecasting accuracy when compared with existing ~~workforce management products~~. CACI Forecaster is quick and easy to use and provides a controlled and straightforward forecast generation process.
 
 ### Before you start
 
@@ -11,15 +11,15 @@ Make sure that you have the following:
 
 
 ### Create a new Solution
-- **Open** CACI Forecaster
+- **Open** CACI Forecaster.
 
-- In CACI Forecaster **click** “New” to create a new solution
+- In CACI Forecaster **click** “New” to create a new solution.
 
 ![New Solution](imgs/QuickStart_NewSolution.png)
 
-- **Type** in a solution name i.e. "Car Insurance" in the pop-up window
+- **Type** in a solution name i.e. "Car Insurance" in the pop-up window.
 
-- **Click** “OK” to continue
+- **Click** “OK” to continue.
 
 ### Import the Data
 - In the “Data Importer” part of the ribbon, **select** the "Text" icon then the "Import" icon – this tells the forecaster that you are going to import a text file.
@@ -46,7 +46,7 @@ Forecaster can also import from Excel files or run any custom process using the 
 ![Target Column](imgs/QuickStart_TargetColumn.png)
 
 
-- Now you need to select a “Start point”. **Scroll down** to row with date "01/01/2011" and **select** the row by clicking on the row header. Then **click** on the the Forecast Start button - the row will turn light blue.
+- Now you need to select a “Start point”. **Scroll down** to row with date "01/11/2010" and **select** the row by clicking on the row header. Then **click** on the the Forecast Start button - the row will turn light blue.
 
 ![Forecast Start](imgs/QuickStart_ForecastStart.png)
 
@@ -73,7 +73,7 @@ The data above the “Forecast Start” is historic data that CACI Forecaster wi
 
 
 ### Analyze results
-- **Click** the "Analysis" tab - a graph of the actual target value and forecast target is displayed with a range of performance metrics.
+- **Click** on the "Analysis" tab - a graph of the actual target value and forecast target is displayed with a range of performance metrics.
 
 ![Analysis Tab](imgs/QuickStart_Analysis.png)
 
