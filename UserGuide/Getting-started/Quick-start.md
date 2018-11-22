@@ -80,17 +80,3 @@ The data above the “Forecast Start” is historic data that CACI Forecaster wi
 {% hint style="info" %}
  To look at comparing different forecast models or to create a forecast scenario you can keep the original model and work with a “snapshot”.
 {% endhint %}
-
-### Save a Snapshot
-
-
-- In the “Solution Explorer” **select** and **right-click** on the forecast file. In the pop-up menu **select** “Project Snapshot”.
-
-{% hint style="info" %}
-NOTE: The CACI Forecaster can export data using the “External Process” option. This can be configured to create reports or to push the forecast data back into your ~~Workforce Management tool~~.
-{% endhint %}
-
-
-- A snapshot of the original forecast model will be created, which can be altered in the “Data” tab. You can revert back to the original forecast model by selecting the relevant file in the “Solution Explorer”
-
-[IMAGE]
