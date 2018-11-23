@@ -36,11 +36,6 @@ Click OK. The New Solution has been created. You can now create Projects and imp
 For Creating a Project go to the link below:
 {% page-ref page="Projects.md" %}
 
-To import data into Forecaster go to the section **Data Importers** by clicking on following link:
-
-{% page-ref page="./Data.md" %}
-
-
 
 
 #### Open, Close and Save a Solution
