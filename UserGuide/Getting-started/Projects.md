@@ -21,16 +21,16 @@ To change the name of any project or snapshot within a solution, right-click the
 
 
 ## Duplicate Project
-A project snapshot is a way of making an exact copy of an existing project.  To show the connection between the two projects, the copy is placed under the original project from which the snapshot was generated.  Please note that if there are any subsequent changes to the originating project, the changes will not be inherited by the previously defined snapshots.
+A project snapshot is a way of making an exact copy of an existing project. To show the connection between the two projects, the copy is placed under the original project from which the copy was generated.  Please note that if there are any subsequent changes to the originating project, the changes will not be inherited by the previously defined copies.
 
-To create a project snapshot, select the relevant project and then select the **Project Snapshot** icon from the **Home – Solution** ribbon, alternatively right-click the project of interest in the Solution Explorer and select the **Project Snapshot** option.  
+To create a copy of a project, right click on the relevant project and then select the **Duplicate Project** option.
 
-**[ IMAGE ]**
-Figure 38 Project Options
+![Project Duplicate](imgs/Solution_DuplicateProject.png)
+
 
 A copy of the project, including data, model and settings, will be created under the current project.  
 
-A project snapshot can be repeated for as many levels as the user wishes, thus creating a comprehensive range of forecast projects and results.  Once all experimentation is complete, the best forecast can be selected.
+A project duplicate can be repeated for as many levels as the user wishes, thus creating a comprehensive range of forecast projects and results.  Once all experimentation is complete, the best forecast can be selected.
 
 
 ## Delete Project
