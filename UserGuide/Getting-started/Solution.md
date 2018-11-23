@@ -29,13 +29,11 @@ When the user selects to create a new solution, they are required to enter a sol
 ![Generating a New Solution](imgs/Solution_NewSolutionWizard.png)
 
 
-Figure 7 Generating a New Solution
-
 Click OK. The New Solution has been created. You can now create Projects and import your own data.
 
 For Creating a Project go to the link below:
 
-{% page-ref page="Projects.md" %}
+{% page-ref page="Projects.md#new-project" %}
 
 
 
