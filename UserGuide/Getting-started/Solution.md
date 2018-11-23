@@ -41,6 +41,9 @@ To import data into Forecaster go to the section **Data Importers** by clicking 
 {% page-ref page="/user-guide/Data/Data-Importers.md" %}
 
 
+{% page-ref page="https://caci-tsf.gitbook.io/forecaster/~/edit/drafts/-LS-_28O6TTYmJOgl8Og/user-guide/getting-started/solution.md" %}
+
+
 
 
 #### Open, Close and Save a Solution
