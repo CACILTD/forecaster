@@ -45,7 +45,7 @@ A Solution in Forecaster can be managed through the options available in the Hom
 
 *	To **open** a solution, click on the Open icon, select the file of interest and select OK.  Alternatively press the `Ctrl+O` keys to access the same open solution dialog
 *	To **close** a solution, click on the Close icon.  If the solution has had some changes before the last save, then the application will ask you if you wish to save the changes
-*	To _save_ a solution, select the Save icon.  This will then display two save options:
+*	To **save** a solution, select the Save icon.  This will then display two save options:
     -	Save:  Saves the solution under the current name.  Files can be saved directly by pressing the `Ctrl+S` keys
     -	Save As: This enables you to save the solution under a new name or in a different location
 
@@ -56,8 +56,12 @@ Additionally all of the above functionality can be executed from any point in th
 ![Quick Access Toolbar](imgs/Solution_QuickAccessToolbar.png)
 
 
-
+{% hint style="info" %}
 When a solution is saved, a solution directory is created and a number of files are placed in this directory.  If you wish to move a forecast solution without using Save As, for example if you have multiple solutions to move, you need to copy all elements in the solution directory to the new location, otherwise the hierarchy defined in the solution view will be broken.
+{% endhint %}
+
+
+
 
 
 #### Deleting a Solution
