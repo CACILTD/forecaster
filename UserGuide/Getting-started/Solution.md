@@ -34,6 +34,7 @@ Figure 7 Generating a New Solution
 Click OK. The New Solution has been created. You can now create Projects and import your own data.
 
 For Creating a Project go to the link below:
+
 {% page-ref page="Projects.md" %}
 
 
