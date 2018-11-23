@@ -47,7 +47,7 @@ The Home – Help ribbon consists of three icons described in Table 3.
 | Forecaster on the Web | Opens up the CACI Forecaster webpage which includes our contact details                             |
 | Email Feedback        | Should you have any queries or suggestions, you can email us by clicking on the Email Feedback icon |
 | About Forecaster      | Provides you with the details of your current version and license key                               |
-Table 3 Help Icons
+
 
 
 

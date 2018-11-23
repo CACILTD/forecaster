@@ -40,7 +40,7 @@ For Creating a Project go to the link below:
 
 #### Open, Close and Save a Solution
 These are all standard windows processes, which operate in the same way as any windows application.
-*	To open a solution, click on the Open icon, select the file of interest and select OK.  Alternatively press the Ctrl+O keys to access the same open solution dialog
+*	To open a solution, click on the Open icon, select the file of interest and select OK.  Alternatively press the `Ctrl+O` keys to access the same open solution dialog
 *	To close a solution, click on the Close icon.  If the solution has had some changes before the last save, then the application will ask you if you wish to save the changes
 *	To save a solution, select the Save icon.  This will then display two save options:
     -	Save:  Saves the solution under the current name.  Files can be saved directly by pressing the Ctrl+S keys
