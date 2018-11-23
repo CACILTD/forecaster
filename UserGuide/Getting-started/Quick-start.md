@@ -7,8 +7,9 @@ The CACI Forecaster provides planners with the best forecasting models available
 Make sure that you have the following:
 
 1. CACI Forecaster installed,
-2. the "Car Insurance" dataset - can be downloaded [here](data/Car-Insurance.csv).
+2. the "Car Insurance" dataset - can be downloaded from the link below.
 
+{% file src="data/Car-Insurance.csv" caption="Car-Insurance.csv" %}
 
 ### Create a new Solution
 - **Open** CACI Forecaster.

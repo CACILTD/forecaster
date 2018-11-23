@@ -70,6 +70,68 @@ echo 'You got to trust me on this, I saved the world'
 {% endapi-method %}
 
 
+{% page-ref page="markdown-examples.md" %}
+
+{% file src="../.gitbook/assets/car-insurance.csv" caption="Car-Insurance.csv" %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+
+Text in the 1st tab
+
+
+
+
+
+Text in the 1st tab
+
+
+
+
+
+Text in the 1st tab
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+
+Text in the second tab
+
+
+
+
+
+Text in the second tab
+
+
+
+
+
+Text in the second tab
+{% endtab %}
+
+{% tab title="3rd Tab" %}
+Text in the 3rd tab
+
+
+
+
+
+Text in the 3rd tab
+
+
+
+Text in the 3rd tab
+{% endtab %}
+{% endtabs %}
+
+> This is a quote from Achilles
+>
+> fds
+
+fds
+
 
 #### Features
 
