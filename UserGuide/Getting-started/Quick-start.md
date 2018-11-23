@@ -33,7 +33,7 @@ Forecaster can also import from Excel files or run any custom process using the 
 ![Import Data](imgs/QuickStart_ImportData.png)
 
 
-- After checking that the comma delimiters option is ticked, continue to click “Next” until you see the following window, below:
+- After checking that the comma delimiters option is ticked, continue to **click** “Next” until you see the following window, below:
 
 ![Text Import Wizard - Final Screen](imgs/QuickStart_TextImportWizard_Completed.png)
 
@@ -77,6 +77,3 @@ The data above the “Forecast Start” is historic data that CACI Forecaster wi
 
 ![Analysis Tab](imgs/QuickStart_Analysis.png)
 
-{% hint style="info" %}
- To look at comparing different forecast models or to create a forecast scenario you can keep the original model and work with a “snapshot”.
-{% endhint %}

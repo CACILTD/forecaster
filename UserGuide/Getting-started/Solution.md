@@ -5,7 +5,7 @@
 
 At this point it is sensible to talk about the hierarchy of a solution.  Once a new solution has been defined or loaded, its structure can be seen in the Solution Explorer window.  A solution may contain one or more projects.  The projects can be related to one another, such as projects with the same dataset but with differing forecasting models, or they can be completely unrelated but grouped in the solution for convenience.  For example, all call volume forecasts in a contact centre could be grouped into one solution.  Figure 5 demonstrates that forecast projects for Motor, Home, Pet and Travel can be grouped in the same solution.
 
-**[ IMAGE ]**
+![Solution Hierarchy](imgs/Solution_SolutionHierarchy.png)
 
 Each of these projects contains different sources of data, however, for the sake of simplicity it makes sense to group all of these forecasts in the same place.  For example, if other planners need to build forecasts in someone’s absence, all active forecast models will be in the same collection.
 Notice in Figure 5 that within the Motor Sales forecast there are a number of sub-forecasts or project snapshots.  These snapshots represent a collection of Motor Sales forecasts that share common data with the project one level up.  The purpose of this hierarchy is to allow the user to keep a copy of all experiments considered valuable, for example a collection of forecast models that yield good predictions.
