@@ -25,22 +25,27 @@ A project snapshot is a way of making an exact copy of an existing project. To s
 
 To create a copy of a project, right click on the relevant project and then select the **Duplicate Project** option.
 
-![Project Duplicate](imgs/Solution_DuplicateProject.png)
+![Duplicate Project](imgs/Solution_DuplicateProject.png)
 
 
 A copy of the project, including data, model and settings, will be created under the current project.  
 
+
+{% hint style="info" %}
 A project duplicate can be repeated for as many levels as the user wishes, thus creating a comprehensive range of forecast projects and results.  Once all experimentation is complete, the best forecast can be selected.
-
-
-## Delete Project
-To delete a project (or project snapshot) from within an existing solution, press the **Delete Project** icon located in the **Home – Solution** ribbon.  Confirmation will be sought that you really do want to delete all components of the data.  Be aware that the project that will be deleted is the one that is currently active.
-
-Alternatively, a project or snapshot can be deleted via the Solution Explorer by right-clicking on the relevant project and choosing **Delete Project**.  The full list of options is shown in Figure 38. 
+{% endhint %}
 
 
 ## Add Existing Project
 The CACI Forecaster permits the user to take a project from one solution and insert it into another.  This might be useful when consolidating forecasts from a number of different sources to create the ‘operational’ versions after a period of investigation.
 
 To add an existing project to the current solution, select either the icon from the **Home – Solution** ribbon or right-click on the solution name in the Solution Explorer and select **Add Existing** from the list of options.  This will then open up a navigation window to allow you to locate the forecast of interest.  If you attempt to import a project with a name that already exists in the current solution, the system will ask you whether you wish to overwrite the existing project.  If you select no then the import process will be cancelled.
+
+
+
+## Delete Project
+A project can be deleted via the Solution Explorer by right-clicking on the relevant project and choosing **Delete Project**. Confirmation will be sought that you really do want to delete all components of the data.  Be aware that the project that will be deleted is the one that is currently active. 
+
+![Delete Project](imgs/Solution_DeleteProject.png)
+
 
