@@ -9,7 +9,7 @@ To create a new project, select the **New Project** icon from the **Home** tab. 
 
 Alternatively, right-click on the solution name and select **New Project** from the solution options as shown in the image below. 
  
-![New Project](imgs/Solution_NewProject.png)
+![New Project](imgs/Project_NewProject.png)
 
 
 
@@ -17,7 +17,7 @@ Alternatively, right-click on the solution name and select **New Project** from 
 To change the name of any project or snapshot within a solution, right-click the item of interest from the Solution Explorer view and then select the **Properties** option.  The system will then display a dialog to allow you to change its name, as shown in the image below.  It will also give you the opportunity to add some comments to the project should this be required.  Additionally information on the creation date and time and creator of the forecast or project will be displayed.
 
 
-![Project Properties](imgs/Solution_ProjectProperties.png)
+![Project Properties](imgs/Project_ProjectProperties.png)
 
 
 ## Duplicate Project
@@ -25,7 +25,7 @@ A project snapshot is a way of making an exact copy of an existing project. To s
 
 To create a copy of a project, right click on the relevant project and then select the **Duplicate Project** option.
 
-![Duplicate Project](imgs/Solution_DuplicateProject.png)
+![Duplicate Project](imgs/Project_DuplicateProject.png)
 
 
 A copy of the project, including data, model and settings, will be created under the current project.  
@@ -46,6 +46,6 @@ To add an existing project to the current solution, right-click on the solution 
 ## Delete Project
 A project can be deleted via the Solution Explorer by right-clicking on the relevant project and choosing **Delete Project**. Confirmation will be sought that you really do want to delete all components of the data.  Be aware that the project that will be deleted is the one that is currently active. 
 
-![Delete Project](imgs/Solution_DeleteProject.png)
+![Delete Project](imgs/Project_DeleteProject.png)
 
 

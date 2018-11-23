@@ -24,15 +24,13 @@ The New Solution icon (or quick keys `Ctrl+N`) allows the user to create a new f
 
 ![New Solution](imgs/Solution_NewSolutionButton.png)
 
-When the user selects to create a new solution, they are required to enter a solution name and, if necessary, change the location of the solution directory.  Once these parameters have been specified and the user presses the OK button, the new solution will be created.  
+When users select to create a new solution, they are required to enter a solution name and, if necessary, change the location of the solution directory.  Once these parameters have been specified and the user presses the OK button, the new solution will be created.  
 
 
+![New Solution Name & Location](imgs/Solution_NewSolutionWizard.png)
 
 
-
-Click OK - the New Solution has been created. You can now create Projects and import your own data.
-
-For Creating a Project go to the link below:
+Users can now create Projects and import their own data. For Creating a Project go to the link below:
 
 {% page-ref page="Projects.md" %}
 
@@ -43,7 +41,7 @@ These are all standard windows processes, which operate in the same way as any w
 *	To open a solution, click on the Open icon, select the file of interest and select OK.  Alternatively press the `Ctrl+O` keys to access the same open solution dialog
 *	To close a solution, click on the Close icon.  If the solution has had some changes before the last save, then the application will ask you if you wish to save the changes
 *	To save a solution, select the Save icon.  This will then display two save options:
-    -	Save:  Saves the solution under the current name.  Files can be saved directly by pressing the Ctrl+S keys
+    -	Save:  Saves the solution under the current name.  Files can be saved directly by pressing the `Ctrl+S` keys
     -	Save As: This enables you to save the solution under a new name or in a different location
 
 Additionally all of the above functionality can be executed from any point in the application using the quick access toolbar, displayed in the top left of the CACI Forecaster. 
