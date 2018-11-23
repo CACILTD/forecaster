@@ -26,14 +26,14 @@ The New Solution icon (or quick keys Ctrl+N) allows the user to create a new for
 When the user selects to create a new solution, they are required to enter a solution name and, if necessary, change the location of the solution directory.  Once these parameters have been specified and the user presses the OK button, the new solution will be created.  
 
 
-![Generating a New Solution](imgs/Solution_NewSolutionWizard.png)
 
 
-Click OK. The New Solution has been created. You can now create Projects and import your own data.
+
+Click OK - the New Solution has been created. You can now create Projects and import your own data.
 
 For Creating a Project go to the link below:
 
-{% page-ref page="Projects.md#new-project" %}
+{% page-ref page="Projects.md" %}
 
 
 
@@ -48,8 +48,9 @@ These are all standard windows processes, which operate in the same way as any w
 Additionally all of the above functionality can be executed from any point in the application using the quick access toolbar, displayed in the top left of the CACI Forecaster. 
  
 
-**[ IMAGE ]**
-Figure 9 Quick Access Toolbar
+
+![Quick Access Toolbar](imgs/Solution_QuickAccessToolbar.png)
+
 
 
 When a solution is saved, a solution directory is created and a number of files are placed in this directory.  If you wish to move a forecast solution without using Save As, for example if you have multiple solutions to move, you need to copy all elements in the solution directory to the new location, otherwise the hierarchy defined in the solution view will be broken.
