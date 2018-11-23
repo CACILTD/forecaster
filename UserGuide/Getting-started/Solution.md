@@ -38,7 +38,7 @@ For Creating a Project go to the link below:
 
 To import data into Forecaster go to the section **Data Importers** by clicking on following link:
 
-{% page-ref page="./Solution.md" %}
+{% page-ref page="./Data.md" %}
 
 
 
