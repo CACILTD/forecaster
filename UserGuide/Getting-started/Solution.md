@@ -12,22 +12,34 @@ Notice in Figure 5 that within the Motor Sales forecast there are a number of su
 
 
 ### Solution Management
-The first part of the Solution group concerns itself with creating, saving and opening existing solutions.  Essentially, these are all the standard operations that a user would expect when creating, for example, a word document or similar.  More details follow in this section.
-The second part of the Solution group focusses on the solution hierarchy and is covered in more detail in sections 0 and 0.
+~~The first part of the Solution group concerns itself with creating, saving and opening existing solutions.  Essentially, these are all the standard operations that a user would expect when creating, for example, a word document or similar.  More details follow in this section.~~
+~~The second part of the Solution group focusses on the solution hierarchy and is covered in more detail in sections 0 and 0.~~
 
 **[ IMAGE ]**
 
 #### New Solution
-The New Solution icon (or quick keys Ctrl+N) allows the user to create a new forecast solution.  
+
+The New Solution icon (or quick keys Ctrl+N) allows the user to create a new forecast solution.
+
+![New Solution](imgs/Solution_NewSolutionButton.png)
+
 When the user selects to create a new solution, they are required to enter a solution name and, if necessary, change the location of the solution directory.  Once these parameters have been specified and the user presses the OK button, the new solution will be created.  
 
-**[ IMAGE ]** 
+
+![Generating a New Solution](imgs/Solution_NewSolutionWizard.png)
+
+
 Figure 7 Generating a New Solution
 
-The application will then look similar to Figure 8, ready to accept data.  More details on this are covered in section 0.
+Click OK. The New Solution has been created. You can now create Projects and import your own data.
 
-**[ IMAGE ]** 
-Figure 8 New Solution
+For Creating a Project go to the link below:
+{% page-ref page="Projects.md" %}
+
+To import data into Forecaster go to the section **Data Importers** by clikcing on following link:
+
+{% page-ref page="./Data/Data-Importers.md" %}
+
 
 
 
