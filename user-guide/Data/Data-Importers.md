@@ -7,19 +7,20 @@ Data can be imported via three different importers:
 | Text     | Used to import a text file, for example .csv                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | MS Excel | Used to import an Excel file                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Script   | There are two different types of script: <br/><br/> (1) Load with Harmonics scripts: Enables the user to import their csv file but automatically includes information on bank holidays and harmonics.  Different scripts are available in order to load interval, daily, weekly, or monthly data. More can be found in a separate document on Decomposition Models [1]  <br/><br/>(2) Automatic import from databases: Bespoke scripts can be created by CACI.  To discuss extra consultancy, please contact CACI using the contact details in section 9 |
-Table 5 Data Importers
 
 
-1. **Text**  <br/>
+
+1. **Text:**  <br/>
 Used to import a text file, for example .csv
 
-2. **MS Excel** <br/>
+2. **MS Excel:** <br/>
 Used to import an Excel file
 
-3. **Script** <br/>
+3. **Script:** <br/>
 There are two different types of script: 
 
- (1) Load with Harmonics scripts: Enables the user to import their csv file but automatically includes information on bank holidays and harmonics.  Different scripts are available in order to load interval, daily, weekly, or monthly data. More can be found in a separate document on Decomposition Models [1]  
+    - Load with Harmonics scripts: Enables the user to import their csv file but automatically includes information on bank holidays and harmonics.  Different scripts are available in order to load interval, daily, weekly, or monthly data. More can be found in a separate document on Decomposition Models [1]  
+    - Automatic import from databases: Bespoke scripts can be created by CACI.  To discuss extra consultancy, please contact CACI using the contact details in section 9
 
 
 Once you have selected which type of import you require (Text, MS Excel, Script), click on Import to open the importation wizard.
