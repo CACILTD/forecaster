@@ -79,7 +79,7 @@ By clicking on Next, the user will be able to insert the relevant path and file 
 The following screen will ask you to select the relevant worksheet within the Excel file.
  
  **[ IMAGE ]**
-Figure 19 Excel Import Wizard - Sheet Selection
+Excel Import Wizard - Sheet Selection
 
 
 Clicking on Next will bring you to the Column Configuration screen.  The importation will then complete by clicking on Next followed by Finish.

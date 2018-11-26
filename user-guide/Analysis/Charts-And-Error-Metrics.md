@@ -3,10 +3,13 @@
 The data can be viewed in two different chart types; a time series plot or a scatter plot, examples of both are shown below.
 
 
-**[ IMAGE ]**
-Figure 36 Time Series Chart and Scatterplot
+![Time Series Chart](imgs/Charts_TimeSeriesChart.png)
 
-For both of these charts, the legend contains error metrics for each forecast project or snapshot so that the user can assess the performance of each forecast when compared to the actuals.  The three error metrics are root mean square, mean absolute error and PE and are calculated for the validation set only.
+
+![Scatterplot](imgs/Charts_Scatterplot.png)
+
+
+For the Time Series Chart, the legend contains error metrics for each forecast project or snapshot so that the user can assess the performance of each forecast when compared to the actuals.  The three error metrics are root mean square, mean absolute error and PE and are calculated for the validation set only.
 
 
 
