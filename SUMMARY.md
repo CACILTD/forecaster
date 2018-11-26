@@ -24,7 +24,7 @@
   * [Model Design](user-guide/Forecasting/Model-Design.md)
   * [Forecasting](user-guide/Forecasting/Forecasting.md)
   
-* [Analysis](user-guide/Analysis/Analysis.md)
+* [Analysis]()
   * [Charts & Error Metrics](user-guide/Analysis/Charts-And-Error-Metrics.md)
   * [Series Setup](user-guide/Analysis/Series-Setup.md)
 
