@@ -30,7 +30,6 @@ The formula consists of a series of at least one function from the Expression Bu
 | COS          | IFLESS       |
 
 
-Table 7 Available Functions
 
 Once you have given your new column a name, you will need to start the formula by clicking on <Expression Builder…>.   The required function can then be selected from the drop-down list in the image below.
  
@@ -49,6 +48,7 @@ Suppose we want to create a new column which is a function of three other column
 
 - First click on <Expression Builder…> and select the COLUMN() function which only requires one argument – the name of the column you want to use.  From the Argument 1 drop-down list, we can select column B
  
+
  ![Expression Builder](imgs/DataColumns_Functions_Example_ColumnB.png)
 
 
@@ -60,20 +60,24 @@ Suppose we want to create a new column which is a function of three other column
 
 - You now want to add column C to this subtotal.  Currently the next operator is + (shown by <Add>).  By clicking on this, you can see that you can also use -, ÷ or x.  For now, we want to use Add
 
+
  ![Formula Editor - Changing the Operator](imgs/DataColumns_Functions_Example_Operator.png)
 
 
 - Clicking on the + sign will generate an extra expression builder
 
+
  ![Formula Editor - Second Expression Builder](imgs/DataColumns_Functions_Example_SecondExpresion.png)
 
 - We can now continue by choosing the second expression to be COLUMN(C)
+
 
  ![Formula Editor - Second Expression](imgs/DataColumns_Functions_Example_ColumnC.png)
 
 - As we want to multiply this current subtotal by column A, we first need to change the second <Add> to <Multiply> from the drop-down list
 
 - We can now add a third expression: COLUMN(A)
+
 
  ![Formula Editor - Third Expression](imgs/DataColumns_Functions_Example_ThirdExpresion.png)
 
