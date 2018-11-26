@@ -12,7 +12,6 @@
 
 * [Data](user-guide/Data/Data.md)
   * [Data Importers](user-guide/Data/Data-Importers.md)
-  * [Re-importing Data](user-guide/Data/Reimporting-Data.md)
   * [Data Exporters](user-guide/Data/Data-Exporters.md)
   * [Data Rows & Columns](user-guide/Data/Data-Rows-Columns.md)
 
