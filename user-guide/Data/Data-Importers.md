@@ -10,6 +10,18 @@ Data can be imported via three different importers:
 Table 5 Data Importers
 
 
+1. Text
+Used to import a text file, for example .csv
+
+2. MS Excel
+Used to import an Excel file
+
+3. Script
+There are two different types of script: 
+
+ (1) Load with Harmonics scripts: Enables the user to import their csv file but automatically includes information on bank holidays and harmonics.  Different scripts are available in order to load interval, daily, weekly, or monthly data. More can be found in a separate document on Decomposition Models [1]  
+
+
 Once you have selected which type of import you require (Text, MS Excel, Script), click on Import to open the importation wizard.
 
 
