@@ -89,13 +89,15 @@ To delete an element of the formula press the red or grey X button to the right 
 
 ## Delete Column
 To delete a derived column from the data grid, select the column of interest with a left mouse click and then press the Delete Column icon.  Only columns derived using the formula editor can be deleted.  The column will only be removed if it has no dependencies.
+
 ### Example
 Following on from example 5.3.1.1, let us suppose we want to delete derived column A.  To do this, we will first need to edit the NewColumn formula and remove column A.
+
 ### Column Properties
 To see column properties and summary statistics for each column, the user can move the mouse pointer over to the column name of interest in the data grid and wait for the tool-tip to be displayed.  Alternatively, select the column of interest and press the Column Properties icon in the Data – Data Columns ribbon.  
  
- **[ IMAGE ]**
-Figure 33 Column Properties Example
+ 
+![Column Properties Example](imgs/DataColumns_ColumnProperties.png)
 
 
 This will then display a dialog similar to that in Figure 33, in which it is possible to:
