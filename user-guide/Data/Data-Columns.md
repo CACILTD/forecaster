@@ -4,17 +4,17 @@ The Columns group on the Data tab is concerned with deriving new fields from the
 
 
 
-## New Formula
+## New Formula Column
 
 The formula editor allows the user to derive any number of new columns based on the imported project data.  These formulae allow the user to better align the input data to the target.  For example, marketing data is often recorded as amount spent or volumes dispatched.  With both traditional and electronic mail, it is unlikely that the message will have an immediate effect on the customer contacting the business, people will contact the business when it suits them.  This will introduce a time delay to response, and this delay needs to be reflected in the input to the model, otherwise the predictive relationship is lost.
 
 Within the formula editor, a formula can be broken down into a number of predefined functions and then an unlimited number of add, subtract, divide and multiply operations on these functions.  The end result is a powerful tool to enable the user to create most representations of their data, without having to resort to creating the column before the data is imported.
-To start the formula editor, select the New Formula icon in the Data – Data Columns ribbon.  The dialog in Figure 25 will be displayed.
+To start the formula editor, select the New Formula icon in the Data – Data Columns ribbon.  The dialog in the image below will be displayed.
  
 
 ![Formula Editor](imgs/DataColumns_FormulaEditor.png)
 
-The formula consists of a series of at least one function from the Expression Builder (listed in Table 7), joined together by using the standard operators +, -, x or ÷.  This enables the user to create complex functions within the application.
+The formula consists of a series of at least one function from the Expression Builder (listed in Table below), joined together by using the standard operators +, -, x or ÷.  This enables the user to create complex functions within the application.
 
 
 | Functions    |              |            |             |
@@ -31,7 +31,7 @@ The formula consists of a series of at least one function from the Expression Bu
 
 
 
-Once you have given your new column a name, you will need to start the formula by clicking on <Expression Builder…>.   The required function can then be selected from the drop-down list in the image below.
+Once you have given your new column a name, you will need to start the formula by clicking on \< Expression Builder… />.   The required function can then be selected from the drop-down list in the image below.
  
  ![Functions](imgs/DataColumns_Functions.png)
 
@@ -93,7 +93,7 @@ To delete a derived column from the data grid, select the column of interest wit
 ### Example
 Following on from example 5.3.1.1, let us suppose we want to delete derived column A.  To do this, we will first need to edit the NewColumn formula and remove column A.
 
-### Column Properties
+## Column Properties
 To see column properties and summary statistics for each column, the user can move the mouse pointer over to the column name of interest in the data grid and wait for the tool-tip to be displayed.  Alternatively, select the column of interest and press the Column Properties icon in the Data – Data Columns ribbon.  
  
  
