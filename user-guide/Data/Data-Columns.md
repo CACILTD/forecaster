@@ -31,7 +31,7 @@ The formula consists of a series of at least one function from the Expression Bu
 
 
 
-Once you have given your new column a name, you will need to start the formula by clicking on \< Expression Builder… />.   The required function can then be selected from the drop-down list in the image below.
+Once you have given your new column a name, you will need to start the formula by clicking on `< Expression Builder…>`.   The required function can then be selected from the drop-down list in the image below.
  
  ![Functions](imgs/DataColumns_Functions.png)
 
