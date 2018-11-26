@@ -58,7 +58,7 @@ Suppose we want to create a new column which is a function of three other column
  ![Formula Editor - First Expression](imgs/DataColumns_Functions_Example_FirstExpresion.png)
 
 
-- You now want to add column C to this subtotal.  Currently the next operator is + (shown by `<Add>`).  By clicking on this, you can see that you can also use `-`, `÷` or `x`.  For now, we want to use Add.
+- You now want to add column C to this subtotal.  Currently the next operator is `+` (shown by `<Add>`).  By clicking on this, you can see that you can also use `-`, `÷` or `x`.  For now, we want to use Add.
 
 
  ![Formula Editor - Changing the Operator](imgs/DataColumns_Functions_Example_Operator.png)
@@ -91,7 +91,11 @@ To delete an element of the formula press the red or grey X button to the right 
 To delete a derived column from the data grid, select the column of interest with a left mouse click and then press the Delete Column icon.  Only columns derived using the formula editor can be deleted.  The column will only be removed if it has no dependencies.
 
 ### Example
-Following on from example 5.3.1.1, let us suppose we want to delete derived column A.  To do this, we will first need to edit the NewColumn formula and remove column A.
+Following on from the previous example, let us suppose we want to delete the derived formula column.  To do this, we will first need to select the NewColumn and click on the Delete Column button as depicted below.
+
+
+![Delete Column](imgs/DataColumns_DeleteColumn.png)
+
 
 ## Column Properties
 To see column properties and summary statistics for each column, the user can move the mouse pointer over to the column name of interest in the data grid and wait for the tool-tip to be displayed.  Alternatively, select the column of interest and press the Column Properties icon in the Data – Data Columns ribbon.  
@@ -100,12 +104,12 @@ To see column properties and summary statistics for each column, the user can mo
 ![Column Properties Example](imgs/DataColumns_ColumnProperties.png)
 
 
-This will then display a dialog similar to that in Figure 33, in which it is possible to:
+This will then display a dialog in which it is possible to:
 -	Change its data type, by selecting a new type from the data type drop down list.  The system will attempt to convert the data format, however, if you continually toggle through different data types, there will be a loss of detail, e.g. going from double to integer and back to double will lose the decimal point detail
--	Change the model column type, i.e. whether a field is an input or target.  For more details on this, see section 5.6
+-	Change the model column type, i.e. whether a field is an input or target.  For more details on this, see the Forecasting\Model Columns section.
 -	Add comments about the column
 
-In addition to the operational details of the column, the system also calculates some summary statistics for numeric columns as shown in Table 8.
+In addition to the operational details of the column, the system also calculates some summary statistics for numeric columns as shown in the table below.
 
 
 | Statistic | Description                                         |
@@ -116,6 +120,6 @@ In addition to the operational details of the column, the system also calculates
 | Stdev     | The standard deviation for non-missing values       |
 | Errors    | The number of error values recorded in the column   |
 | Missing   | The number of missing values recorded in the column |
-Table 8 Summary Statistics
+
 
 Additionally these statistical details will be displayed if you move the mouse pointer over the column name in the data grid.
