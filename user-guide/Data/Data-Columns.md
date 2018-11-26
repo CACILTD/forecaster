@@ -50,6 +50,7 @@ Suppose we want to create a new column which is a function of three other column
 -	First click on <Expression Builder…> and select the COLUMN() function which only requires one argument – the name of the column you want to use.  From the Argument 1 drop-down list, we can select column B
  
  ![Expression Builder](imgs/DataColumns_Functions_Example_ColumnB.png)
+ 
 
 -	 Clicking on OK will return you to the Formula Editor
  
