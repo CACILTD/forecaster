@@ -11,11 +11,12 @@ Used to import an Excel file
 3. **Script:** <br/>
 There are two different types of script: 
 
-    - Load with Harmonics scripts: Enables the user to import their csv file but automatically includes information on bank holidays and harmonics.  Different scripts are available in order to load interval, daily, weekly, or monthly data. More can be found in a separate document on Decomposition Models [1]  
-    - Automatic import from databases: Bespoke scripts can be created by CACI.  To discuss extra consultancy, __please contact CACI using the contact details in section 9__
+    - Load with Harmonics scripts: Enables the user to import their csv file but automatically includes information on bank holidays and harmonics.  Different scripts are available in order to load interval, daily, weekly, or monthly data. More can be found in a separate document on Decomposition Models.
+    - Automatic import from databases: Bespoke scripts can be created by CACI. For further consultancy, please contact CACI.
 
 
 <br/>
+
 Once you have selected which type of import you require (Text, MS Excel, Script), click on Import to open the importation wizard.
 
 
@@ -48,15 +49,15 @@ By clicking the Advanced view shown in the image below, the user is able to adju
 
 
 
-| Data Type | Description                                                                 | Additional user-defined fields                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Data Type | Description                                                                 | Additional user-defined fields                                                                                                                                                                                     |
 |-----------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Double    | A real or continuous number, i.e. a number with decimal places (e.g. 1.234) | - FormatDecimals: Set the number of decimal places - FormatThousands: Use a comma to separate thousands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Double    | A real or continuous number, i.e. a number with decimal places (e.g. 1.234) | - FormatDecimals: Set the number of decimal places - FormatThousands: Use a comma to separate thousands                                                                                                                                                                                                                                                     |
 | Integer   | A whole number, e.g. 1, 2, 3, or 4                                          |        N/A                                                                                                                                                                                                                                                                                                 |
 | DateTime  | A variable representing a date or a time                                    | - FormatDateTime: Define whether the variable is a date, time or date and time <br/><br/>  - IncrementType: For date variables, you can assign the column to represent days, weeks or months.  If the IncrementStep is set appropriately and the date variable is set to be the key column, then where there are missing date values in the import file, the application will insert a dummy row to represent this date  <br/><br/> - IncrementStep: This sets the frequency of the IncrementType value.  For example, for daily data, the user would set the IncrementType to be day and the IncrementStep to be 1. If the data is recorded once every two weeks, then the IncrementType would be week and the IncrementStep 2 
 | String    | A non-numeric variable, also known as a categorical variable                |      N/A                                                                                                                                                                                                                          |
 
 
-Table 6 Data Types
+
 
 
 The importation will complete by clicking Next followed by Finish.
@@ -81,10 +82,8 @@ The following screen will ask you to select the relevant worksheet within the Ex
 Figure 19 Excel Import Wizard - Sheet Selection
 
 
-Clicking on Next will bring you to the Column Configuration screen which is described in section in more detail in 5.1.1.  The importation will then complete by clicking on Next followed by Finish.
- 
- **[ IMAGE ]**
-Figure 20 Completing the Excel Importation
+Clicking on Next will bring you to the Column Configuration screen.  The importation will then complete by clicking on Next followed by Finish.
+
 
 
 ##### Script Importer
