@@ -47,37 +47,38 @@ In some cases, you will be able to select the argument value from a drop-down li
 ### Example
 Suppose we want to create a new column which is a function of three other columns: A x (B + C).  The order of precedence for this system is similar to how a basic calculator works - those functions higher up the calculation are completed first.  We therefore want to create the formula as B + C x A.
 
--	First click on <Expression Builder…> and select the COLUMN() function which only requires one argument – the name of the column you want to use.  From the Argument 1 drop-down list, we can select column B
+- First click on <Expression Builder…> and select the COLUMN() function which only requires one argument – the name of the column you want to use.  From the Argument 1 drop-down list, we can select column B
  
  ![Expression Builder](imgs/DataColumns_Functions_Example_ColumnB.png)
- 
 
--	 Clicking on OK will return you to the Formula Editor
+
+- Clicking on OK will return you to the Formula Editor
  
 
  ![Formula Editor - First Expression](imgs/DataColumns_Functions_Example_FirstExpresion.png)
 
 
--	You now want to add column C to this subtotal.  Currently the next operator is + (shown by <Add>).  By clicking on this, you can see that you can also use -, ÷ or x.  For now, we want to use Add
+- You now want to add column C to this subtotal.  Currently the next operator is + (shown by <Add>).  By clicking on this, you can see that you can also use -, ÷ or x.  For now, we want to use Add
 
  ![Formula Editor - Changing the Operator](imgs/DataColumns_Functions_Example_Operator.png)
 
 
--	Clicking on the + sign will generate an extra expression builder
+- Clicking on the + sign will generate an extra expression builder
 
  ![Formula Editor - Second Expression Builder](imgs/DataColumns_Functions_Example_SecondExpresion.png)
 
--	We can now continue by choosing the second expression to be COLUMN(C)
+- We can now continue by choosing the second expression to be COLUMN(C)
 
  ![Formula Editor - Second Expression](imgs/DataColumns_Functions_Example_ColumnC.png)
 
--	As we want to multiply this current subtotal by column A, we first need to change the second <Add> to <Multiply> from the drop-down list
--	We can now add a third expression: COLUMN(A)
+- As we want to multiply this current subtotal by column A, we first need to change the second <Add> to <Multiply> from the drop-down list
+
+- We can now add a third expression: COLUMN(A)
 
  ![Formula Editor - Third Expression](imgs/DataColumns_Functions_Example_ThirdExpresion.png)
 
 
--	Now that the third expression has been entered, you can click on OK.  Note that the third operator (<Add>) is ignored as there is no fourth expression
+- Now that the third expression has been entered, you can click on OK.  Note that the third operator (<Add>) is ignored as there is no fourth expression
 
 To delete an element of the formula press the red or grey X button to the right of each function definition.  
 
