@@ -13,11 +13,11 @@
 * [Data](user-guide/Data/Data.md)
   * [Data Importers](user-guide/Data/Data-Importers.md)
   * [Re-importing Data](user-guide/Data/Reimporting-Data.md)
-  * [Data Columns](user-guide/Data/Data-Columns.md)
   * [Data Exporters](user-guide/Data/Data-Exporters.md)
+  * [Data Rows & Columns](user-guide/Data/Data-Rows-Columns.md)
 
 
-* [Forecasting](user-guide/Forecasting/Forecasting-section.md)
+* [Forecasting]()
   * [Model Type](user-guide/Forecasting/Model-Type.md)
   * [Model Rows](user-guide/Forecasting/Model-Rows.md)
   * [Model Columns](user-guide/Forecasting/Model-Columns.md)
@@ -28,7 +28,7 @@
   * [Charts & Error Metrics](user-guide/Analysis/Charts-And-Error-Metrics.md)
   * [Series Setup](user-guide/Analysis/Series-Setup.md)
 
-* [Automation](user-guide/Automation/Automation.md)
+* [Automation]()
   * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
   * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
   * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
