@@ -12,9 +12,7 @@ Within the formula editor, a formula can be broken down into a number of predefi
 To start the formula editor, select the New Formula icon in the Data – Data Columns ribbon.  The dialog in Figure 25 will be displayed.
  
 
-**[ IMAGE ]**
-Figure 25 Formula Editor
-
+![Formula Editor](imgs/DataColumns_FormulaEditor.png)
 
 The formula consists of a series of at least one function from the Expression Builder (listed in Table 7), joined together by using the standard operators +, -, x or ÷.  This enables the user to create complex functions within the application.
 
@@ -34,16 +32,14 @@ The formula consists of a series of at least one function from the Expression Bu
 
 Table 7 Available Functions
 
-Once you have given your new column a name, you will need to start the formula by clicking on <Expression Builder…>.   The required function can then be selected from the drop-down list in Figure 26.
+Once you have given your new column a name, you will need to start the formula by clicking on <Expression Builder…>.   The required function can then be selected from the drop-down list in the image below.
  
- **[ IMAGE ]**
-Figure 26 Functions
+ ![Functions](imgs/DataColumns_Functions.png)
 
 
-Once a function has been chosen, a description of the function will appear along with a list of required arguments.  By clicking on each argument text box, a description of what is required will appear, as shown in Figure 27.
+Once a function has been chosen, a description of the function will appear along with a list of required arguments.  By clicking on each argument text box, a description of what is required will appear, as shown  in the image below.
 
-**[ IMAGE ]** 
-Figure 27 Example Function
+![Example Function](imgs/DataColumns_Functions_Example.png)
 
 
 In some cases, you will be able to select the argument value from a drop-down list rather than typing in the information.
@@ -53,37 +49,31 @@ Suppose we want to create a new column which is a function of three other column
 
 -	First click on <Expression Builder…> and select the COLUMN() function which only requires one argument – the name of the column you want to use.  From the Argument 1 drop-down list, we can select column B
  
+ ![Expression Builder](imgs/DataColumns_Functions_Example_ColumnB.png)
+
 -	 Clicking on OK will return you to the Formula Editor
  
 
-**[ IMAGE ]**
-Figure 28 Formula Editor - First Expression
+ ![Formula Editor - First Expression](imgs/DataColumns_Functions_Example_FirstExpresion.png)
 
 
 -	You now want to add column C to this subtotal.  Currently the next operator is + (shown by <Add>).  By clicking on this, you can see that you can also use -, ÷ or x.  For now, we want to use Add
 
-**[ IMAGE ]**
-Figure 29 Formula Editor - Changing the Operator
+ ![Formula Editor - Changing the Operator](imgs/DataColumns_Functions_Example_Operator.png)
 
 
 -	Clicking on the + sign will generate an extra expression builder
 
-**[ IMAGE ]**
-Figure 30 Formula Editor - Second Expression Builder
-
+ ![Formula Editor - Second Expression Builder](imgs/DataColumns_Functions_Example_SecondExpresion.png)
 
 -	We can now continue by choosing the second expression to be COLUMN(C)
 
-
-**[ IMAGE ]**
-Figure 31 Formula Editor - Second Expression
-
+ ![Formula Editor - Second Expression](imgs/DataColumns_Functions_Example_ColumnC.png)
 
 -	As we want to multiply this current subtotal by column A, we first need to change the second <Add> to <Multiply> from the drop-down list
 -	We can now add a third expression: COLUMN(A)
 
-**[ IMAGE ]**
-Figure 32 - Third Expression
+ ![Formula Editor - Third Expression](imgs/DataColumns_Functions_Example_ThirdExpresion.png)
 
 
 -	Now that the third expression has been entered, you can click on OK.  Note that the third operator (<Add>) is ignored as there is no fourth expression

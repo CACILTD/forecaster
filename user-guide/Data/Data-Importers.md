@@ -12,7 +12,7 @@ Used to import an Excel file
 There are two different types of script: 
 
     - Load with Harmonics scripts: Enables the user to import their csv file but automatically includes information on bank holidays and harmonics.  Different scripts are available in order to load interval, daily, weekly, or monthly data. More can be found in a separate document on Decomposition Models [1]  
-    - Automatic import from databases: Bespoke scripts can be created by CACI.  To discuss extra consultancy, please contact CACI using the contact details in section 9
+    - Automatic import from databases: Bespoke scripts can be created by CACI.  To discuss extra consultancy, __please contact CACI using the contact details in section 9__
 
 
 <br/>
@@ -29,7 +29,7 @@ Once the user has selected Text – Import from the Data – Data Importers ribb
 ![Text Import Wizard - Welcome](imgs/TextImportWizard_Welcome.png)
 
 
-By clicking on Next, the user will be able to insert the relevant path and file name of the text file (using the Browse button) and set the delimiter.  The default delimiter is comma, but other delimiters are possible (as shown in Figure 13).  By leaving the Suggest Data Types box ticked, the application will automatically define data types for each column.  
+By clicking on Next, the user will be able to insert the relevant path and file name of the text file (using the Browse button) and set the delimiter.  The default delimiter is comma, but other delimiters are possible (as shown in the image below).  By leaving the Suggest Data Types box ticked, the application will automatically define data types for each column.  
 
 
 ![Text Import Wizard - Parameters](imgs/TextImportWizard_Parameters.png)
@@ -42,7 +42,7 @@ Clicking on Next brings you to the Column Configuration options where you will b
 ![Text Import Wizard - Column Configuration (Preview)](imgs/TextImportWizard_ColumnsConfig.png)
 
 
-By clicking the Advanced view shown in Figure 15, the user is able to adjust the data type of each column, described in Table 6.
+By clicking the Advanced view shown in the image below, the user is able to adjust the data type of each column, described in Table 6.
  
 ![Text Import Wizard - Column Configuration (Advanced)](imgs/TextImportWizard_ColumnsConfigAdvanced.png)
 
@@ -75,7 +75,7 @@ By clicking on Next, the user will be able to insert the relevant path and file 
 ![Excel Import Wizard - Parameters](imgs/ExcelImportWizard_Parameters.png)
 
 
-The following screen (Figure 19) will ask you to select the relevant worksheet within the Excel file.
+The following screen will ask you to select the relevant worksheet within the Excel file.
  
  **[ IMAGE ]**
 Figure 19 Excel Import Wizard - Sheet Selection
@@ -96,7 +96,7 @@ By clicking on Next, the user will be able to select the relevant script and inp
 
 ![Script Import Wizard - Script Selector](imgs/ScriptImportWizard_ScriptSelector.png) 
 
-After clicking on Next, progress of the importation will be visible in the import wizard, similar to that shown in Figure 23.
+After clicking on Next, progress of the importation will be visible in the import wizard, similar to that shown in the image below.
 
 ![Script Import Wizard - Script Progress](imgs/ScriptImportWizard_ScriptProgress.png)
 
