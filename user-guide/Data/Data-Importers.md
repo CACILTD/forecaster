@@ -2,14 +2,6 @@
 
 Data can be imported via three different importers:
 
-| Importer | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Text     | Used to import a text file, for example .csv                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| MS Excel | Used to import an Excel file                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Script   | There are two different types of script: <br/><br/> (1) Load with Harmonics scripts: Enables the user to import their csv file but automatically includes information on bank holidays and harmonics.  Different scripts are available in order to load interval, daily, weekly, or monthly data. More can be found in a separate document on Decomposition Models [1]  <br/><br/>(2) Automatic import from databases: Bespoke scripts can be created by CACI.  To discuss extra consultancy, please contact CACI using the contact details in section 9 |
-
-
-
 1. **Text:**  <br/>
 Used to import a text file, for example .csv
 
@@ -23,6 +15,7 @@ There are two different types of script:
     - Automatic import from databases: Bespoke scripts can be created by CACI.  To discuss extra consultancy, please contact CACI using the contact details in section 9
 
 
+<br/>
 Once you have selected which type of import you require (Text, MS Excel, Script), click on Import to open the importation wizard.
 
 
