@@ -13,7 +13,5 @@ Once complete, the column background colour will change to reflect the colours o
 ![Target and Inputs in the Data Grid](imgs/ModelColumns_TargetInput.png)
 
 
-
-
 ### Exclude a Column
 To deselect a data column from any specific model, select its name with the mouse pointer and then press the exclude column icon to remove it from the model.  The model type will be removed and the background colour of the column will be returned to white.
