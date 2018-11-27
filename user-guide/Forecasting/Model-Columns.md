@@ -1,5 +1,5 @@
 # Model Columns
-This part of the Data ribbon focusses on defining or removing a column’s type, as described in the following sections.
+This part of the Model ribbon focusses on defining or removing a column’s type, as described in the following sections.
 
 
 ### Column Types
@@ -10,8 +10,9 @@ To assign a column to a given column type, select the column name or range of co
 Once complete, the column background colour will change to reflect the colours of the column type: inputs are yellow whilst the target column is green.  The data grid should then appear similar to that shown in Figure 35.
  
 
-**[ IMAGE ]**
-Figure 35 Target and Inputs in the Data Grid
+![Target and Inputs in the Data Grid](imgs/ModelColumns_TargetInput.png)
+
+
 
 
 ### Exclude a Column

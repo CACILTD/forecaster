@@ -21,7 +21,7 @@ In some situations, you may not want to include the earlier historical data when
 The training data set can be selected in two ways:
 
 - To specify a fixed training data start point:
-    - Scroll to the appropriate row in the data grid, highlight the row number and select the Data Ranges icon
+    - Scroll to the appropriate row in the data grid, highlight the row number and select the **Data Ranges** icon
     - Click the tick symbol next to Fixed Training Start to update the training starting point
 
 - To specify a fixed training length (for example, if you always want to use 2 years’ worth of data in the training set):
