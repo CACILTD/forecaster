@@ -14,8 +14,8 @@ Progress on the forecast generation will be shown in the Output Window.  The per
 
 ### Model Details
 
-Once the forecast has been predicted successfully, the user can see the model's details by clicking on the relevant button as in the image below.
+Once the forecast has been completed successfully, the user can see the model's details by clicking on the relevant button as in the image below.
 
-Depending on the model, users can see additional insights about the forecast such as prediciton accuracy and the importance of each input variable.
+Depending on the model, users can see additional insights about the forecast such as prediction accuracy and importance of each input variable.
 
 ![Model Details](imgs/Forecasting_ModelDetails.png)
