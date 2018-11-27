@@ -53,10 +53,13 @@ As well as selecting columns for the model, the system will allow you to deselec
 <!-- #### Selecting/deselecting specific rows -->
 
 Selecting or deselecting a row can be done in two different ways:
+
 - Left-click the row number of interest and then press the **Select Rows** or **Deselect Rows** icon in the **Data – Model Rows** ribbon.  Multiple rows can be selected using the `shift` key.
 - After selecting at least one row, right-click on a selected row number and choose **Select/Deselect** from the list of options
 
-You may have a dataset that contains zero or missing values on the variable that you wish to forecast.  Once you have set the target column (as described in next section - [Model Columns](Model-Columns.md#column-types) ), you can deselect any blank or zero target values in a couple of steps:
+
+You may have a dataset that contains zero or missing values on the variable that you wish to forecast.  Once you have set the target column (as described in next section - [Model Columns](Model-Columns.md#column-types)), you can deselect any blank or zero target values in a couple of steps:
+
 - Select all rows by clicking on the blank column heading above the row numbers
 - Right-click on any row number so that the list of row options appears.  Select **Deselect Blank Targets**
 - Repeat the steps above and select **Deselect Zero Targets**
