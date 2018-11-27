@@ -29,6 +29,23 @@ The training data set can be selected in two ways:
     - Determine whether there is a gap between the training set and validation set and input the number of rows, if required
 
 
+![Data Ranges](imgs/ModelRows_DataRanges_Training.png)
+
+
+
+### Forecasting Range
+
+Similarly, the forecasting data set can be selected in two ways:
+
+- To specify the forecast data set until the last row.
+- To specify a fixed forecasting length (for example, if you always want to forecast a month ahead)
+
+
+![Data Ranges](imgs/ModelRows_DataRanges_Forecasting.png)
+
+
+
+
 ### Selecting/Deselecting Rows
 As well as selecting columns for the model, the system will allow you to deselect and reselect individual rows of data.  Deselecting rows could be necessary because of missing values or because certain rows contain exceptional data which you do not want to forecast.  
 
