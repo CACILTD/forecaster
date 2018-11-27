@@ -11,6 +11,6 @@ The second item on the application ribbon is the Data tab.  This tab gives the u
 - **Data Exporters:** Mechanisms to export data from the application.
 {% page-ref page="Data-Exporters.md" %}
 
-- **Data Rows & Columns:** Mechanisms to create derived columns and manipulate the imported rows and columns.
+- **Data Rows & Columns:** Mechanisms to create derived columns and manipulate the imported data rows and columns.
 {% page-ref page="Data-Rows-Columns.md" %}
  

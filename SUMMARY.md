@@ -15,7 +15,6 @@
   * [Data Exporters](user-guide/Data/Data-Exporters.md)
   * [Data Rows & Columns](user-guide/Data/Data-Rows-Columns.md)
 
-
 * [Forecasting]()
   * [Model Type](user-guide/Forecasting/Model-Type.md)
   * [Model Rows](user-guide/Forecasting/Model-Rows.md)
