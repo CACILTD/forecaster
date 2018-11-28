@@ -27,8 +27,10 @@
   * [Series Setup](user-guide/Analysis/Series-Setup.md)
 
 * [Automation]()
-  * [We love feedback](user-guide/Automation/Workflows.md)
-  
+  * [Creating Workflows](user-guide/Automation/Creating-workflows.md)
+  * [Running Workflows](user-guide/Automation/Running-workflows.md)
+  * [Creating Projects with Workflows](user-guide/Automation/Creating-projects-with-workflows.md)
+
 
 ## Use Cases
 
