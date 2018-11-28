@@ -4,8 +4,6 @@
 
 ## Creating a workflow
 
-### Create Projects
-
 
 ### Create Projects
 
