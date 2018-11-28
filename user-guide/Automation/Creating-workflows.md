@@ -1,4 +1,4 @@
-# Workflows
+# Creating Workflows
 
 ## Workflows
 
@@ -11,12 +11,10 @@
 
 ### Import Data
 
-### Create Projects
-
 ### Export Data
 
 ### Set Columns
 
 ### Set Rows
 
-## Predict
+### Predict
