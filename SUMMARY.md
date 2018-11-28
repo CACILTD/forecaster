@@ -27,10 +27,8 @@
   * [Series Setup](user-guide/Analysis/Series-Setup.md)
 
 * [Automation]()
-  * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
-  * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
-  * [We love feedback](user-guide/part-ii-3/we-love-feedback.md)
-
+  * [We love feedback](user-guide/Automation/Workflows.md)
+  
 
 ## Use Cases
 
