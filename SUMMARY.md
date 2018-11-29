@@ -26,8 +26,8 @@
   * [Charts & Error Metrics](user-guide/Analysis/Charts-And-Error-Metrics.md)
   * [Series Setup](user-guide/Analysis/Series-Setup.md)
 
-* [Automation]()
-  * [Creating Workflows](user-guide/Automation/Creating-workflows.md)
+* [Automation](user-guide/Automation/Automation.md)
+  * [Workflows](user-guide/Automation/Workflows.md)
   * [Running Workflows](user-guide/Automation/Running-workflows.md)
   * [Creating Projects with Workflows](user-guide/Automation/Creating-projects-with-workflows.md)
 
