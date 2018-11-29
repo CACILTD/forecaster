@@ -39,7 +39,7 @@ To initialize a new workflow, click on the **New Workflow** button under the Aut
 The title of a Workflow can be changed from the Workflow name field.
 
 
-![New Workflow](imgs/Workflows_WorkflowName.png)
+![Rename Workflow](imgs/Workflows_WorkflowName.png)
 
 
 Once the Workflow has been initialized, users are able to specify the desired sequence of **Workflow Tasks**. The next sections describe each one of them in detail.
@@ -48,7 +48,7 @@ Once the Workflow has been initialized, users are able to specify the desired se
 
 To build a new workflow users can either start from Create Projects or Select Projects. The Create Projects is used... 
 
-![Set Rows](imgs/Workflows_CreateProjects.png)
+![Create Projects](imgs/Workflows_CreateProjects.png)
 
 ### Select Projects
 
@@ -102,7 +102,7 @@ After Forecast users can export the results by setting this up at the Export Dat
 To create a copy of a workflow click on the **Duplicate Workflow** button as depicted below.
 
 
-![Duplicate Workflow](imgs/)
+![Duplicate Workflow](imgs/Workflows_DeleteWorkflow.png)
 
 
 ## Delete Workflow
@@ -110,4 +110,4 @@ To create a copy of a workflow click on the **Duplicate Workflow** button as dep
 To delete a workflow click on the **Delete Workflow** button as depicted below.
 
 
-![Duplicate Workflow](imgs/)
+![Duplicate Workflow](imgs/Workflows_DuplicateWorkflow.png)
