@@ -102,7 +102,7 @@ After Forecast users can export the results by setting this up at the Export Dat
 To create a copy of a workflow click on the **Duplicate Workflow** button as depicted below.
 
 
-![Duplicate Workflow](imgs/Workflows_DeleteWorkflow.png)
+![Duplicate Workflow](imgs/Workflows_DuplicateWorkflow.png)
 
 
 ## Delete Workflow
@@ -110,4 +110,4 @@ To create a copy of a workflow click on the **Duplicate Workflow** button as dep
 To delete a workflow click on the **Delete Workflow** button as depicted below.
 
 
-![Duplicate Workflow](imgs/Workflows_DuplicateWorkflow.png)
+![Delete Workflow](imgs/Workflows_DeleteWorkflow.png)
