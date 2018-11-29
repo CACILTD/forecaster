@@ -29,7 +29,6 @@
 * [Automation](user-guide/Automation/Automation.md)
   * [Workflows](user-guide/Automation/Workflows.md)
   * [Running Workflows](user-guide/Automation/Running-workflows.md)
-  * [Creating Projects with Workflows](user-guide/Automation/Creating-projects-with-workflows.md)
 
 
 ## Use Cases
