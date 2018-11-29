@@ -14,7 +14,7 @@ To create a Workflow, users have to specify a series of **Workflow Tasks** . A W
 
 The available Workflow Tasks are depicted in the image below.
 
-![Workflow Tasks](imgs/CreatingWorkflows_WorkflowTasks.png) 
+![Workflow Tasks](imgs/Workflows_WorkflowTasks.png) 
 
 ### Add Workflow Task
 
