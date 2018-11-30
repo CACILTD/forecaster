@@ -44,24 +44,29 @@ The title of a Workflow can be changed from the **Workflow name** field.
 
 Once the Workflow has been initialized, users are able to specify the desired sequence of **Workflow Tasks**. The next sections describe each one of them in detail.
 
-### Create Projects
 
-To build a new workflow users can either start from the Create Projects or Select Projects tasks. The Create Projects is used...
-
-**[ UNDER CONSTRUCTION]**
-
-
-![Create Projects](imgs/Workflows_CreateProjects.png)
 
 ### Select Projects
 
-As already mentioned, to build a new workflow users can either start from the Create Projects or Select Projects tasks.
+To build a new workflow users can either start from the Create Projects or Select Projects tasks. The Create Projects is used when you have a custom importation process created by CACI. Otherwise, the Select Projects task should be selected.
 
 The Select Projects option is used when we need to re-use one or multiple existing Project(s) of a Solution. To do so, simply drag the Select Projects task into the main workflow pane.
 
 When the Select Projects task is selected, a list of the Solution's Projects appear in the right-hand pane. Users can select one or multiple Projects to include in the workflow.
 
+
 ![Select Projects](imgs/Workflows_SelectProjects.png)
+
+
+### Create Projects
+
+
+As already mentioned, to build a new workflow users can either start from the Create Projects or Select Projects tasks. If you have a custom importation process built by CACI then you have to start from the Create Projects task. The Projects will be created based on the defined categories in the custom importation process.
+
+
+
+![Create Projects](imgs/Workflows_CreateProjects.png)
+
 
 ### Import Data
 
