@@ -5,7 +5,7 @@
 
 Workflows are used to automate common tasks such as creating a project, re-importation, model re-training, and data export. Workflows are far faster to run, and minimise the potential for error. With Workflows, multiple projects can be created at the same time.
 
-This guide explains how to manage a Workflows in Forecaster.
+This guide explains how to manage Workflows in Forecaster.
 
 
 ## Workflow Tasks
@@ -36,7 +36,7 @@ To initialize a new workflow, click on the **New Workflow** button under the Aut
 
 
 
-The title of a Workflow can be changed from the Workflow name field.
+The title of a Workflow can be changed from the **Workflow name** field.
 
 
 ![Rename Workflow](imgs/Workflows_WorkflowName.png)
@@ -46,25 +46,28 @@ Once the Workflow has been initialized, users are able to specify the desired se
 
 ### Create Projects
 
-To build a new workflow users can either start from Create Projects or Select Projects. The Create Projects is used... 
+To build a new workflow users can either start from the Create Projects or Select Projects tasks. The Create Projects is used...
+
+**[ UNDER CONSTRUCTION]**
+
 
 ![Create Projects](imgs/Workflows_CreateProjects.png)
 
 ### Select Projects
 
-As already metioned, to build a new workflow users can either start from the Create Projects or Select Projects tasks.
+As already mentioned, to build a new workflow users can either start from the Create Projects or Select Projects tasks.
 
-The Select Projects option is used when we need to re-use one or multiple existing Project(s) of a Solution. To do so, simply drage the Select Projects tasks into the main workflow pane.
+The Select Projects option is used when we need to re-use one or multiple existing Project(s) of a Solution. To do so, simply drag the Select Projects task into the main workflow pane.
 
-When the Select Projects task is selected, the relevant Task Properties appear in the right-hand pane. Here, users can select one or many of the Projects of the Solutions.
+When the Select Projects task is selected, a list of the Solution's Projects appear in the right-hand pane. Users can select one or multiple Projects to include in the workflow.
 
 ![Select Projects](imgs/Workflows_SelectProjects.png)
 
 ### Import Data
 
-The Import Data is used to specify 
+The Import Data is used to specify that at this step of the workflow the data has to be imported.
 
-From the Task Properties pane users can specify a new importation procedure, re-use of the existing one by updating the current importation configuration (i.e. data file, script) or re-use of the existing one witha clean import.
+From the Task Properties pane users can specify a new importation procedure, re-use of the existing one by updating the current importation configuration (i.e. data file, script) or re-use of the existing one with a clean import.
 
 ![Import Data](imgs/Workflows_ImportData.png)
 
@@ -72,7 +75,7 @@ From the Task Properties pane users can specify a new importation procedure, re-
 
 ### Set Columns
 
-At the Set Columns task users can specify the target column of the model as well as the model inputs. When the 'No Change' option is enabled, the  configuration of the Project is used.
+At the Set Columns task users can specify the target column of the model as well as the model inputs. When the 'No Change' option is enabled, the  Project's configuration is used.
 
 ![Set Columns](imgs/Workflows_SetColumns.png)
 
@@ -85,14 +88,18 @@ At the Set Columns task users can specify the starting date and the length of th
 
 ### Forecast
 
-At this step of the workflow users are able to select the predicitve model to be used for the forecast. Users can either re-use the model selected within the project or setup a new one. By clicking on the "..." button right next to the model, the Model Parameters screen appears where users can also define or ammend the model's parameters.
+At this step of the workflow users are able to select the predictive model to be used for the forecast. Users can either re-use the model selected within the project or setup a new one. By clicking on the "..." button right next to the model, the Model Parameters screen appears where users can also define or amend the model's parameters.
 
 ![Forecast](imgs/Workflows_Forecast.png)
 
 
 ### Export Data
 
-After Forecast users can export the results by setting this up at the Export Data task. is used to 
+The Export Data task is used to export the results of a workflow and save them into the user's computer. From the properties pane users can setup a Target Directory where the file will be saved.
+
+{% hint style="info" %}
+The Target Directory can be a network folder so the results can be directly shared with others.
+{% endhint %}
 
 ![Export Data](imgs/Workflows_ExportData.png)
 

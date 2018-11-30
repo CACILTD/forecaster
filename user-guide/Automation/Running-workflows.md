@@ -8,13 +8,13 @@ Once the Workflow has been created users can run it by clicking on the **Execute
 
 ![Workflow Execute Button](imgs/RunningWorkflows_Execute.png)
 
-There is also a functionality to **Stop** a running workflow. Users an also specify the desired **Execution Rules** in case of error during the execution
+There is also a functionality to **Stop** a running workflow. Users can also specify the desired **Execution Rules** in case of error during the execution
 
 
 
 ## Execution Log
 
-After the workflow execution users are able to see the **Log** by clicking on the relevant button as displayed in the following image. 
+After executing a workflow, users are able to see the **Log** by clicking on the relevant button as displayed in the following image. 
 
 
 ![Workflow Log Button](imgs/RunningWorkflows_LogButton.png)
